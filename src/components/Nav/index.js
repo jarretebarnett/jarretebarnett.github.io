@@ -6,7 +6,7 @@ function Nav() {
             <div className="container">
                 <div className="row-cols-auto">
                 <div className="navbar" id="navbarNav">
-                    <a className="navbar-brand" href="/">
+                    <a className="navbar-brand" href="/#/home">
                     *
                     </a>
                     {/* <a className="nav-link" href="/">Home</a> */}
