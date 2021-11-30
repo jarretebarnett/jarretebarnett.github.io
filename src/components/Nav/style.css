@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@200&display=swap");
+
+nav.navbar {
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+a.navbar-brand {
+    font-family: 'IBM Plex Sans';
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+a.nav-link {
+    font-family: 'IBM Plex Sans';
+    color: #ffffff;
+    text-decoration: none !important;
+}
