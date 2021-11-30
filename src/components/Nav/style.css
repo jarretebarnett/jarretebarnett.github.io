@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400&display=swap");
 
 nav.navbar {
     position: sticky;
@@ -7,13 +7,25 @@ nav.navbar {
 }
 
 a.navbar-brand {
-    font-family: 'IBM Plex Sans';
+    font-family: 'Bebas Neue';
+    font-size: 32px;
     color: #ffffff;
     text-decoration: none !important;
 }
 
 a.nav-link {
-    font-family: 'IBM Plex Sans';
+    font-family: 'Bebas Neue';
+    font-size: 32px;
     color: #ffffff;
     text-decoration: none !important;
+}
+
+a.navbar-brand:hover {
+    transform: scale(1.005);
+    color: #ffffff;
+}
+
+a.nav-link:hover {
+    transform: scale(1.005);
+    color: #ffffff;
 }

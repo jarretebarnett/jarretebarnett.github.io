@@ -13,8 +13,8 @@ function Nav() {
                     <a className="nav-link" href="/#/home">Home</a>
                     <a className="nav-link" href="/#/projects">Projects</a>
                     <a className="nav-link" href="/#/bio">Bio</a>
+                    <a className="nav-link" href="/#/certs" rel="noreferrer" target="_blank">Certifications</a>
                     <a className="nav-link" href="/#/resume" rel="noreferrer" target="_blank">Resumé</a>
-                    <a className="nav-link" href="/#/certs" rel="noreferrer" target="_blank">Certificates</a>
                 </div>
                 </div>
             </div>
