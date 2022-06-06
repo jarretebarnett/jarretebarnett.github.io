@@ -34,7 +34,7 @@
   height: 100%;
 }
 
-/* Track */
+/* Scroll bar track */
 ::-webkit-scrollbar-track {
   background: rgb(0, 0, 0);
 }
