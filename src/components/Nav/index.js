@@ -1,23 +1,19 @@
 import React from 'react';
+import certs from "../../docs/Certs.pdf";
 import './style.css';
 
 function Nav() {
     return (
-        <nav className="navbar navbar-expand-lg navbar-black bg-black" style={{ opacity: 93 }}>
-            <div className="container">
-                <div className="row-cols-auto">
-                <div className="navbar" id="navbarNav">
-                    {/* <a className="navbar-brand" href="/#/home">
-                    Home
-                    </a> */}
-                    <a className="nav-link" href="/#/home">Home</a>
-                    <a className="nav-link" href="/#/projects">Projects</a>
-                    <a className="nav-link" href="/#/bio">Bio</a>
-                    <a className="nav-link" href="/#/certs" rel="noreferrer" target="_blank">Certifications</a>
-                    <a className="nav-link" href="/#/resume" rel="noreferrer" target="_blank">Resumé</a>
-                </div>
-                </div>
-            </div>
+        <nav className="navbar">
+            <span className="label"><i className=""></i>Jarreté Barnett</span>
+            <ul className="items">
+                {/* <li><a className="nav-link" href="/#/home">Home</a></li> */}
+                <li><a className="nav-link" href="/#/experience">Experience</a></li>
+                <li><a className="nav-link" href="/#/portfolio">Portfolio</a></li>
+                <li><a className="nav-link" href="/#/contact">Contact</a></li>
+                <li><a className="nav-link" href={certs} rel="noreferrer" target="_blank">Certs</a></li>
+                {/* <li><a className="nav-link" href="/#/resume" rel="noreferrer" target="_blank">Resumé</a></li> */}
+            </ul>
         </nav>
     );
 }

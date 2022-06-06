@@ -1,11 +1,12 @@
-// import logo from './logo.svg';
 import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import Nav from "./components/Nav";
 import Welcome from "./pages/Welcome";
 import Home from './pages/Home';
-import Projects from './pages/Projects';
-import Bio from './pages/Bio';
+import Experience from "./pages/Experience";
+import Portfolio from './pages/Portfolio';
+import Contact from './pages/Contact';
 import './App.css';
+import React from "react";
 
 function App() {
   return (
@@ -14,8 +15,9 @@ function App() {
       <Routes>
         <Route component = {Welcome} path = "/" exact />
         <Route component = {Home} path = "/home" />
-        <Route component = {Projects} path = "/projects" />
-        <Route component = {Bio} path = "/bio" />
+        <Route component = {Experience} path = "/experience" />
+        <Route component = {Portfolio} path = "/portfolio" />
+        <Route component = {Contact} path = "/contact" />
       </Routes>
     </Router>
   );
