@@ -17,13 +17,13 @@ nav.navbar {
     cursor: pointer;
     background: rgb(0, 0, 0);
     padding: 0.8rem 1rem;
-    width: 15%;
+    width: 19%;
     display: block;
     box-sizing: border-box;
     transition: all 0.3s;
     /* Integrated a.navbar-brand code */
     font-family: 'Bebas Neue';
-    font-size: 13px;
+    font-size: 15px;
     color: #ffffff;
     text-decoration: none !important;
 }
@@ -46,7 +46,7 @@ nav.navbar {
     background: rgb(0, 0, 0);
     opacity: 0;
     visibility: hidden;
-    min-width: 15%;
+    min-width: 19%;
     height: 0;
     position: absolute;
     top: 48px;
@@ -80,7 +80,7 @@ nav.navbar:hover > .label {
 
 a.nav-link {
     font-family: 'Bebas Neue';
-    font-size: 11px;
+    font-size: 13.5px;
     color: #ffffff;
     text-decoration: none !important;
 }
