@@ -23,7 +23,7 @@ nav.navbar {
     transition: all 0.3s;
     /* Integrated a.navbar-brand code */
     font-family: 'Bebas Neue';
-    font-size: 13px;
+    font-size: 15px;
     color: #ffffff;
     text-decoration: none !important;
 }
@@ -80,7 +80,7 @@ nav.navbar:hover > .label {
 
 a.nav-link {
     font-family: 'Bebas Neue';
-    font-size: 11px;
+    font-size: 13px;
     color: #ffffff;
     text-decoration: none !important;
 }
