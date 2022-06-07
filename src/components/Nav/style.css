@@ -17,7 +17,7 @@ nav.navbar {
     cursor: pointer;
     background: rgb(0, 0, 0);
     padding: 0.8rem 1rem;
-    width: 19%;
+    width: 23%;
     display: block;
     box-sizing: border-box;
     transition: all 0.3s;
@@ -46,7 +46,7 @@ nav.navbar {
     background: rgb(0, 0, 0);
     opacity: 0;
     visibility: hidden;
-    min-width: 19%;
+    min-width: 23%;
     height: 0;
     position: absolute;
     top: 48px;
