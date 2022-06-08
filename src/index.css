@@ -6,11 +6,14 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #000000 !important;
+  background-image: url(.././src/assets/img/abstract.gif);
   background-size: cover;
   background-attachment: fixed;
+  background-repeat: repeat;
+  background-position: center;
   width: 100%;
   height: 100%;
-  position:relative; 
+  position: relative; 
   padding-bottom:[footer-height];
   overflow: scroll;
 }

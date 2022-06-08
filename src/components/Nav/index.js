@@ -1,5 +1,5 @@
 import React from 'react';
-import certs from "../../docs/Certs.pdf";
+import certs from "../../assets/docs/Certs.pdf";
 import './style.css';
 
 function Nav() {

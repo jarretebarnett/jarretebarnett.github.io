@@ -1,8 +1,9 @@
 import React from 'react';
+import './style.css';
 
 function Welcome() {
     return (
-        <div className="container-fluid"></div>
+        <div className="narrow"></div>
     );
 }
 
