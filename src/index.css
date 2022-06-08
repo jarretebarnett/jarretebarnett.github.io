@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #000000 !important;
-  background-image: url(.././src/assets/img/abstract.gif);
+  background-image: url(.././src/assets/img/tunnel.gif) !important;
   background-size: cover;
   background-attachment: fixed;
   background-repeat: repeat;
