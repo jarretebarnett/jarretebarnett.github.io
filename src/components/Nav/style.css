@@ -11,7 +11,8 @@ nav.navbar {
     position: sticky;
     top: 0px;
     z-index: 1;
-    /* opacity: 93%; */
+    display: block;
+    opacity: 93%;
 }
 
 .label {
