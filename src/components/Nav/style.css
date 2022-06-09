@@ -11,8 +11,6 @@ nav.navbar {
     position: sticky;
     top: 0px;
     z-index: 1;
-    display: block;
-    opacity: 93%;
 }
 
 .label {
@@ -23,7 +21,6 @@ nav.navbar {
     display: block;
     box-sizing: border-box;
     transition: all 0.3s;
-    /* Integrated a.navbar-brand code */
     font-family: 'Bebas Neue';
     font-size: 17px;
     color: #ffffff;
@@ -40,7 +37,6 @@ nav.navbar {
 }
 
 .items a:hover {
-    /* border-left: 5px solid; */
     background: rgb(37, 37, 37);
 }
 
@@ -88,11 +84,9 @@ a.nav-link {
 }
 
 .label:hover {
-    /* transform: scale(1.0015); */
     color: #ffffff;
 }
 
 a.nav-link:hover {
-    /* transform: scale(1.015); */
     color: #ffffff;
 }
