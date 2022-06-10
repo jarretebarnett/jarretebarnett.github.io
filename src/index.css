@@ -10,7 +10,7 @@ body {
   background-color: #000000 !important;
   background-image: url(.././src/assets/img/tunnel.gif) !important;
   background-size: cover;
-  background-attachment: fixed;
+  background-attachment: fixed !important;
   background-repeat: repeat;
   background-position: center;
   display: block !important;
@@ -86,8 +86,8 @@ h1.slide-three {
 p.statement {
   font-family: 'Bebas Neue';
   text-align: center;
-  margin-left: 165px;
-  margin-right: 165px;
+  margin-left: 65px;
+  margin-right: 65px;
   display: block !important;
   opacity: 93% !important;
   animation: fadeIn 10s !important;
