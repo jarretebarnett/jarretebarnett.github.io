@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400&display=swap");
 
 html {
-  margin: auto;
+  margin: auto !important;
   height: 100%;
   width: 100%;
 }
@@ -19,8 +19,7 @@ body {
   background-repeat: repeat !important;
   background-position: center !important;
   display: block !important;
-  margin: auto;
-  /* min-height: 100%; */
+  margin: auto !important;
   width: 100%;
   height: 100%;
   position: relative; 
@@ -77,13 +76,13 @@ h1 {
 }
 
 h1.slide-one {
-  animation: fadeIn 2.75s;
-}
-h1.slide-two {
   animation: fadeIn 3.75s;
 }
-h1.slide-three {
+h1.slide-two {
   animation: fadeIn 4.75s;
+}
+h1.slide-three {
+  animation: fadeIn 5.75s;
 }
 
 p.statement {
@@ -92,9 +91,9 @@ p.statement {
   margin-left: 65px;
   margin-right: 65px;
   display: block !important;
-  opacity: 83% !important;
-  animation: fadeIn 11.5s !important;
+  opacity: 93% !important;
   color: white;
+  animation: fadeIn 12.25s !important;
 }
   
 hr {
@@ -119,7 +118,7 @@ nav.navbar {
   z-index: 1;
   display: block !important;
   opacity: 88% !important;
-  animation: fadeIn 3.5s !important;
+  animation: fadeIn 4.75s !important;
 }
 
 .label {
