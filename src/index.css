@@ -6,7 +6,7 @@ html {
   width: 100%;
 }
 
-body.caliber {
+body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -77,13 +77,13 @@ h1 {
 }
 
 h1.slide-one {
-  animation: slideMe 1.75s ease-in;
+  animation: fadeIn 2.75s;
 }
 h1.slide-two {
-  animation: slideMe 2.25s ease-in;
+  animation: fadeIn 3.75s;
 }
 h1.slide-three {
-  animation: slideMe 2.75s ease-in;
+  animation: fadeIn 4.75s;
 }
 
 p.statement {
@@ -93,7 +93,7 @@ p.statement {
   margin-right: 65px;
   display: block !important;
   opacity: 83% !important;
-  animation: fadeIn 10s !important;
+  animation: fadeIn 11.5s !important;
   color: white;
 }
   
@@ -171,7 +171,6 @@ nav.navbar {
 .items::before {
   content: "";
   position: absolute;
-  text-align: left;
   width: 15px;
   height: 15px;
   background: rgb(0, 0, 0);
@@ -1678,14 +1677,14 @@ form [type='radio'] {
   }
 }
 
-@keyframes slideMe {
+/* @keyframes slideMe {
   0% {
     transform: skewX(0deg) translateX(1500px);
   }
   100% {
     transform: skew(0deg);
   }
-}
+} */
 
 @keyframes fadeIn {
   0% { opacity: 0; }
