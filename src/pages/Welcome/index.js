@@ -16,7 +16,7 @@ function Welcome() {
             <h1 className="slide-two"><span className="badge bg-black">Licensed Real Estate Sales Associate</span></h1>
             <h1 className="slide-three"><span className="badge bg-black">Entrepreneur</span></h1>
             <br />
-            <p className="statement" behavior="alternate" direction="up">This is an exploratory documentation of prior and current experience relative to time spent working within the tech industry. Choose from the menu to discover compiled project stacks, repositories and social media access.</p>
+            <p className="statement" behavior="alternate" direction="up">An exploratory documentation of relative training and experience from exposure working within the tech industry. Choose from the menu to discover an overview and insight of specific projects, online repositories, and social media access.</p>
         </div>
     );
 }
