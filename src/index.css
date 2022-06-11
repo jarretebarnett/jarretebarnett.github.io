@@ -17,7 +17,8 @@ body {
   background-size: cover !important;
   background-attachment: fixed !important;
   background-repeat: repeat !important;
-  background-position: center !important;
+  background-position-x: center !important;
+  background-position-y: center !important;
   display: block !important;
   margin: auto;
   /* min-height: 100%; */
