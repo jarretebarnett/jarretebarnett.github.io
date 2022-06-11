@@ -6,7 +6,7 @@ html {
   width: 100%;
 }
 
-body {
+body.caliber {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -17,8 +17,7 @@ body {
   background-size: cover !important;
   background-attachment: fixed !important;
   background-repeat: repeat !important;
-  background-position-x: center !important;
-  background-position-y: center !important;
+  background-position: center !important;
   display: block !important;
   margin: auto;
   /* min-height: 100%; */
