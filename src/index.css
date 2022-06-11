@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400&display=swap");
 
 html {
-  margin: 0px;
+  margin: auto;
   height: 100%;
   width: 100%;
 }
@@ -19,10 +19,10 @@ body {
   background-repeat: repeat !important;
   background-position: center !important;
   display: block !important;
-  margin: 0px;
-  min-height: 100%;
+  margin: auto;
+  /* min-height: 100%; */
   width: 100%;
-  /* height: 100%; */
+  height: 100%;
   position: relative; 
   padding-bottom:[footer-height];
   overflow: scroll;
@@ -129,6 +129,7 @@ nav.navbar {
   width: 33%;
   display: block;
   box-sizing: border-box;
+  position: absolute;
   transition: all 0.3s;
   font-family: 'Bebas Neue';
   font-size: 17px;
@@ -157,7 +158,7 @@ nav.navbar {
   min-width: 33%;
   height: 0;
   position: absolute;
-  top: 48px;
+  top: 58px;
   transform-origin: top;
   transform: scaleY(0);
   transition: transform 0.3s;
@@ -379,6 +380,8 @@ template {
 *,
 *::before,
 *::after {
+  margin: auto;
+  padding: 0px;
   box-sizing: border-box;
 }
   
