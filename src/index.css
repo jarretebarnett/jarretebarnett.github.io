@@ -34,7 +34,8 @@ body {
   opacity: 78% !important;
   background-color: rgb(0, 0, 0);
   border-radius: 0px;
-  color: white;
+  color: white !important;
+  text-decoration: none !important;
 }
 
 code {
@@ -73,16 +74,17 @@ main {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  color: white !important;
 }
 
 h1.slide-one {
-  animation: fadeIn 3.75s;
+  animation: fadeIn 5.75s;
 }
 h1.slide-two {
-  animation: fadeIn 4.75s;
+  animation: fadeIn 6.75s;
 }
 h1.slide-three {
-  animation: fadeIn 5.75s;
+  animation: fadeIn 7.75s;
 }
 
 p.statement {
@@ -102,9 +104,31 @@ p.statement {
     0 0 90px rgb(166, 166, 166),
     0 0 100px rgb(125, 125, 125),
     0 0 150px rgb(97, 97, 97);
-  animation: fadeIn 12.25s !important;
+  animation: fadeIn 13.25s !important;
 }
-  
+
+#slider {
+  animation: fadeIn 9.75s !important;
+}
+
+.page-title {
+  font-family: 'Bebas Neue';
+  font-size: 68px;
+  text-align: center;
+  color: white;
+  text-shadow:
+    0 0 4px rgb(255, 255, 255),
+    0 0 11px rgb(242, 242, 242),
+    0 0 19px rgb(237, 237, 237),
+    0 0 40px rgb(233, 233, 233),
+    0 0 60px rgb(200, 200, 200),
+    0 0 80px rgb(166, 166, 166),
+    0 0 100px rgb(125, 125, 125),
+    0 0 120px rgb(97, 97, 97);
+  animation: fadeIn 8.25s !important;
+  opacity: 78% !important;
+}
+
 hr {
   box-sizing: content-box;
   /* 1 */
@@ -127,7 +151,7 @@ nav.navbar {
   z-index: 1;
   display: block !important;
   opacity: 78% !important;
-  animation: fadeIn 4.75s !important;
+  animation: fadeIn 5.75s !important;
 }
 
 .label {
@@ -212,6 +236,8 @@ pre {
   
 a {
   background-color: transparent;
+  text-decoration: none !important;
+  color: white !important;
 }
   
 abbr[title] {
