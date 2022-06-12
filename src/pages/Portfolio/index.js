@@ -13,7 +13,6 @@ function Portfolio() {
             <br />
             <div className="page-title">Portfolio</div>
             <br />
-            <br />
             <span id="slider" className="badge bg-black">
                 <div id="carouselControls" className="carousel slide carousel-fade" data-ride="carousel">
                 <ol className="carousel-indicators">
