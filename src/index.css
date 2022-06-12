@@ -78,13 +78,13 @@ h1 {
 }
 
 h1.slide-one {
-  animation: fadeIn 5.75s;
-}
-h1.slide-two {
   animation: fadeIn 6.75s;
 }
-h1.slide-three {
+h1.slide-two {
   animation: fadeIn 7.75s;
+}
+h1.slide-three {
+  animation: fadeIn 8.75s;
 }
 
 p.statement {
@@ -104,11 +104,11 @@ p.statement {
     0 0 90px rgb(166, 166, 166),
     0 0 100px rgb(125, 125, 125),
     0 0 150px rgb(97, 97, 97);
-  animation: fadeIn 13.25s !important;
+  animation: fadeIn 12.25s !important;
 }
 
 #slider {
-  animation: fadeIn 9.75s !important;
+  animation: fadeIn 9.5s !important;
 }
 
 .page-title {
@@ -125,8 +125,17 @@ p.statement {
     0 0 80px rgb(166, 166, 166),
     0 0 100px rgb(125, 125, 125),
     0 0 120px rgb(97, 97, 97);
-  animation: fadeIn 8.25s !important;
+  animation: fadeIn 7.5s !important;
   opacity: 78% !important;
+}
+
+#title-glow:hover {
+  text-shadow:
+    0 0 4px rgb(255, 255, 255),
+    0 0 11px rgb(242, 242, 242),
+    0 0 19px rgb(237, 237, 237),
+    0 0 40px rgb(233, 233, 233),
+    0 0 60px rgb(200, 200, 200);
 }
 
 hr {
