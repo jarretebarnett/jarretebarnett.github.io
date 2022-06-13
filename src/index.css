@@ -77,13 +77,13 @@ h1 {
   color: white !important;
 }
 
-h1.slide-one {
+h1.fade-one {
   animation: fadeIn 6.75s;
 }
-h1.slide-two {
+h1.fade-two {
   animation: fadeIn 7.75s;
 }
-h1.slide-three {
+h1.fade-three {
   animation: fadeIn 8.75s;
 }
 
@@ -168,7 +168,7 @@ nav.navbar {
   background: rgb(0, 0, 0);
   padding: 0.8rem 1rem;
   width: 33%;
-  display: block;
+  display: block !important;
   box-sizing: border-box;
   position: absolute;
   transition: all 0.3s;
@@ -247,6 +247,11 @@ a {
   background-color: transparent;
   text-decoration: none !important;
   color: white !important;
+}
+
+#colTitle {
+  margin-top: 3.5%;
+  margin-bottom: 6.5%;
 }
   
 abbr[title] {
@@ -1097,7 +1102,7 @@ button {
 }
 
 .card {
-  border: 1px solid #1a1a1a;
+  border: 1px solid rgb(0, 0, 0);
   margin-bottom: 1rem;
 }
 
@@ -1108,6 +1113,7 @@ button {
 }
 
 .card .card-body {
+  background-color: rgb(0, 0, 0);
   padding: 0.375rem;
 }
 
@@ -1182,6 +1188,7 @@ form [type='radio'] {
 
 .container {
   width: 85%;
+  /* display: block; */
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;

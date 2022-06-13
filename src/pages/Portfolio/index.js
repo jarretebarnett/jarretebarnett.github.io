@@ -26,7 +26,7 @@ function Portfolio() {
                         <div className="carousel-item active">
                             <img className="d-block w-100" src={trekgambit} alt="First slide"/>
                             <div className="carousel-caption d-none d-md-block">
-                                <h1><span className="badge bg-black"><a id="title-glow" href="https://quiet-harbor-96544.herokuapp.com/" rel="noreferrer" target="_blank">Trek Gambit </a><a href="https://github.com/jarretebarnett/trekgambit" rel="noreferrer" target="_blank"><img id="logo-glow" src={githublogo} style={{ maxWidth: 22 }} alt=""/></a></span></h1>
+                                <h1><span className="badge bg-black"><a id="title-glow" href="https://quiet-harbor-96544.herokuapp.com/" rel="noreferrer" target="_blank">Trek Gambit </a><a href="https://github.com/jarretebarnett/trekgambit" rel="noreferrer" target="_blank"><img src={githublogo} style={{ maxWidth: 22 }} alt=""/></a></span></h1>
                                 <h4><span className="badge bg-black">This application is designed to help search for national park information.</span></h4>
                             </div>
                         </div>

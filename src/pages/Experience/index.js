@@ -2,7 +2,12 @@ import React from "react";
 
 function Experience() {
     return (
-        <div className="container-fluid"></div>
+        <div className="container">
+            <br />
+            <br />
+            <div className="page-title">Experience</div>
+            <br />
+        </div>
     );
 }
 

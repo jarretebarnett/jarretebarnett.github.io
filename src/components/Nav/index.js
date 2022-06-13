@@ -4,7 +4,7 @@ import React from 'react';
 function Nav() {
     return (
         <nav className="navbar">
-            <span id="title-glow" className="label"><i className=""></i>Jarreté Barnett</span>
+            <span id="title-glow" className="label"><a href=" ">Jarreté Barnett</a></span>
             <ul className="items">
                 <li><a id="title-glow" className="nav-link" href="/#/experience">Experience</a></li>
                 <li><a id="title-glow" className="nav-link" href="/#/portfolio">Portfolio</a></li>
