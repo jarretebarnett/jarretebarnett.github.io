@@ -36,13 +36,6 @@ body {
   overflow: scroll;
 }
 
-/* .gif {
-  -webkit-transform: rotateX(0);
-  -moz-transform: rotateX(0);
-  -o-transform: rotateX(0);
-  transform: rotateX(0);
-} */
-
 .badge.bg-black {
   font-family: 'Bebas Neue';
   text-align: left;
@@ -52,7 +45,10 @@ body {
   border-radius: 0px;
   color: white !important;
   text-decoration: none !important;
-  animation: fadeIn 3s;
+  -webkit-animation: fadeIn 6.25s !important;
+  -moz-animation: fadeIn 6.25s !important;
+  -o-animation: fadeIn 6.25s !important;
+  animation: fadeIn 6.25s !important;
 }
 
 code {
@@ -121,14 +117,17 @@ p.statement {
     0 0 80px rgb(166, 166, 166),
     0 0 100px rgb(125, 125, 125),
     0 0 120px rgb(97, 97, 97);
-  -webkit-animation: fadeIn 3s !important;
-  -moz-animation: fadeIn 3s !important;
-  -o-animation: fadeIn 3s !important;
-  animation: fadeIn 3s !important;
+  -webkit-animation: fadeIn 8.5s !important;
+  -moz-animation: fadeIn 8.5s !important;
+  -o-animation: fadeIn 8.5s !important;
+  animation: fadeIn 8.5s !important;
 }
 
 #slider {
-  animation: fadeIn 4s !important;
+  -webkit-animation: fadeIn 8.5s !important;
+  -moz-animation: fadeIn 8.5s !important;
+  -o-animation: fadeIn 8.5s !important;
+  animation: fadeIn 8.5s !important;
 }
 
 .page-title {
@@ -145,10 +144,10 @@ p.statement {
     0 0 80px rgb(166, 166, 166),
     0 0 100px rgb(125, 125, 125),
     0 0 120px rgb(97, 97, 97);
-  -webkit-animation: fadeIn 3.25s !important;
-  -moz-animation: fadeIn 3.25s !important;
-  -o-animation: fadeIn 3.25s !important;
-  animation: fadeIn 3.25 !important;
+  -webkit-animation: fadeIn 6.25s !important;
+  -moz-animation: fadeIn 6.25s !important;
+  -o-animation: fadeIn 6.25s !important;
+  animation: fadeIn 6.25s !important;
   opacity: 78% !important;
 }
 
@@ -168,6 +167,13 @@ p.statement {
     0 0 19px rgb(237, 237, 237),
     0 0 40px rgb(233, 233, 233),
     0 0 60px rgb(200, 200, 200);
+}
+
+#fadeContacts {
+  -webkit-animation: fadeIn 8.5s !important;
+  -moz-animation: fadeIn 8.5s !important;
+  -o-animation: fadeIn 8.5s !important;
+  animation: fadeIn 8.5s !important;
 }
 
 .lean-right {
@@ -202,10 +208,10 @@ nav.navbar {
   z-index: 1;
   display: block !important;
   opacity: 78% !important;
-  -webkit-animation: fadeIn 2.25s !important;
-  -moz-animation: fadeIn 2.25s !important;
-  -o-animation: fadeIn 2.25s !important;
-  animation: fadeIn 2.25s !important;
+  -webkit-animation: fadeIn 3.25s !important;
+  -moz-animation: fadeIn 3.25s !important;
+  -o-animation: fadeIn 3.25s !important;
+  animation: fadeIn 3.25s !important;
 }
 
 .label {

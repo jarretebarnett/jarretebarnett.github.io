@@ -15,7 +15,7 @@ function Contact() {
             <div className="page-title">Contact</div>
             <br />
             <h1><span className="badge bg-black">
-                <div className="row">
+                <div id="fadeContacts" className="row">
                     <div id="colTitle" className="col-auto">
                         <p>Social Media</p>
                         <div className="row">
