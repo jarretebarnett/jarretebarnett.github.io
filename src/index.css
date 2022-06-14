@@ -105,7 +105,10 @@ p.statement {
     0 0 80px rgb(166, 166, 166),
     0 0 100px rgb(125, 125, 125),
     0 0 120px rgb(97, 97, 97);
-  /* animation: fadeIn 3s !important; */
+  -webkit-animation: fadeIn 3s !important;
+  -moz-animation: fadeIn 3s !important;
+  -o-animation: fadeIn 3s !important;
+  animation: fadeIn 3s !important;
 }
 
 #slider {
@@ -126,6 +129,9 @@ p.statement {
     0 0 80px rgb(166, 166, 166),
     0 0 100px rgb(125, 125, 125),
     0 0 120px rgb(97, 97, 97);
+  -webkit-animation: fadeIn 3.25s !important;
+  -moz-animation: fadeIn 3.25s !important;
+  -o-animation: fadeIn 3.25s !important;
   animation: fadeIn 3.25 !important;
   opacity: 78% !important;
 }
@@ -180,6 +186,9 @@ nav.navbar {
   z-index: 1;
   display: block !important;
   opacity: 78% !important;
+  -webkit-animation: fadeIn 2.25s !important;
+  -moz-animation: fadeIn 2.25s !important;
+  -o-animation: fadeIn 2.25s !important;
   animation: fadeIn 2.25s !important;
 }
 
@@ -1748,6 +1757,18 @@ form [type='radio'] {
   }
 }
 
+@-webkit-keyframes fadeIn {
+  0% { opacity: 0%; }
+  78% { opacity: 78%;}
+}
+@-moz-keyframes fadeIn {
+  0% { opacity: 0%; }
+  78% { opacity: 78%;}
+}
+@-o-keyframes fadeIn {
+  0% { opacity: 0%; }
+  78% { opacity: 78%;}
+}
 @keyframes fadeIn {
   0% { opacity: 0%; }
   78% { opacity: 78%;}
