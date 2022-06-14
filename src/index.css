@@ -132,7 +132,7 @@ p.statement {
 
 .page-title {
   font-family: 'Bebas Neue';
-  font-size: 60px;
+  font-size: 52px;
   text-align: center;
   color: white;
   text-shadow:
@@ -303,7 +303,7 @@ a {
 #colTitle {
   width: 11rem;
   margin-top: 3.5%;
-  margin-bottom: 6.5%;
+  margin-bottom: 3.5%;
 }
   
 abbr[title] {
