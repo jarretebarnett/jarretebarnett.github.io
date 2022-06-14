@@ -36,7 +36,7 @@ body {
   border-radius: 0px;
   color: white !important;
   text-decoration: none !important;
-  animation: fadeIn 4.75s;
+  animation: fadeIn 3s;
 }
 
 code {
@@ -105,11 +105,11 @@ p.statement {
     0 0 80px rgb(166, 166, 166),
     0 0 100px rgb(125, 125, 125),
     0 0 120px rgb(97, 97, 97);
-  animation: fadeIn 9.5s !important;
+  /* animation: fadeIn 3s !important; */
 }
 
 #slider {
-  animation: fadeIn 8.5s !important;
+  animation: fadeIn 4s !important;
 }
 
 .page-title {
@@ -126,7 +126,7 @@ p.statement {
     0 0 80px rgb(166, 166, 166),
     0 0 100px rgb(125, 125, 125),
     0 0 120px rgb(97, 97, 97);
-  animation: fadeIn 5.5s !important;
+  animation: fadeIn 3.25 !important;
   opacity: 78% !important;
 }
 
@@ -150,12 +150,12 @@ p.statement {
 
 .lean-right {
   text-align: right;
-  font-size: 23px;
+  font-size: 16px;
 }
 
 .lean {
   text-align: right;
-  font-size: 15px;
+  font-size: 13px;
 }
 
 hr {
@@ -180,7 +180,7 @@ nav.navbar {
   z-index: 1;
   display: block !important;
   opacity: 78% !important;
-  animation: fadeIn 3.25s !important;
+  animation: fadeIn 2.25s !important;
 }
 
 .label {
