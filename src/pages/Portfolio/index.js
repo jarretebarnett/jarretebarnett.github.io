@@ -24,35 +24,35 @@ function Portfolio() {
                     </ol>
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img className="d-block w-100" src={trekgambit} alt="First slide"/>
+                            <a href="https://quiet-harbor-96544.herokuapp.com/" rel="noreferrer" target="_blank"><img className="d-block w-100" src={trekgambit} alt="First slide"/></a>
                             <div className="carousel-caption d-none d-md-block">
                                 <h1><span className="badge bg-black"><a id="title-glow" href="https://quiet-harbor-96544.herokuapp.com/" rel="noreferrer" target="_blank">Trek Gambit </a><a href="https://github.com/jarretebarnett/trekgambit" rel="noreferrer" target="_blank"><img src={githublogo} style={{ maxWidth: 22 }} alt=""/></a></span></h1>
                                 <h4><span className="badge bg-black">This application is designed to help search for national park information.</span></h4>
                             </div>
                         </div>
                         <div className="carousel-item">
-                            <img className="d-block w-100" src={googlebooks} alt="Second slide"/>
+                            <a href="https://bookapigoogle.herokuapp.com/" rel="noreferrer" target="_blank"><img className="d-block w-100" src={googlebooks} alt="Second slide"/></a>
                             <div className="carousel-caption d-none d-md-block">
                                 <h1><span className="badge bg-black"><a id="title-glow" href="https://bookapigoogle.herokuapp.com/" rel="noreferrer" target="_blank">Google Books API Queue </a><a href="https://github.com/jarretebarnett/googlebooks" rel="noreferrer" target="_blank"><img src={githublogo} style={{ maxWidth: 22 }} alt=""/></a></span></h1>
                                 <h4><span className="badge bg-black">An Axios API query which returns book searches and saves to a database.</span></h4>
                             </div>
                         </div>
                         <div className="carousel-item">
-                            <img className="d-block w-100" src={betaportfolio} alt="Third slide"/>
+                            <a href="https://jarretebarnett.github.io/reactportfolio/" rel="noreferrer" target="_blank"><img className="d-block w-100" src={betaportfolio} alt="Third slide"/></a>
                             <div className="carousel-caption d-none d-md-block">
                                 <h1><span className="badge bg-black"><a id="title-glow" href="https://jarretebarnett.github.io/reactportfolio/" rel="noreferrer" target="_blank">Portfolio | Beta Version </a><a href="https://github.com/jarretebarnett/reactportfolio" rel="noreferrer" target="_blank"><img src={githublogo} style={{ maxWidth: 22 }} alt=""/></a></span></h1>
                                 <h4><span className="badge bg-black">Early beta version portfolio utilizing React.</span></h4>
                             </div>
                         </div>
                         <div className="carousel-item">
-                            <img className="d-block w-100" src={lyrichord} alt="Fourth slide"/>
+                            <a href="https://seanmonaghan.github.io/LyriChord/" rel="noreferrer" target="_blank"><img className="d-block w-100" src={lyrichord} alt="Fourth slide"/></a>
                             <div className="carousel-caption d-none d-md-block">
                                 <h1><span className="badge bg-black"><a id="title-glow" href="https://seanmonaghan.github.io/LyriChord/" rel="noreferrer" target="_blank">LyriChord </a><a href="https://github.com/jarretebarnett/LyriChord" rel="noreferrer" target="_blank"><img src={githublogo} style={{ maxWidth: 22 }} alt=""/></a></span></h1>
                                 <h4><span className="badge bg-black">Utilizes 2-3 API functions to deliver musical amusements.</span></h4>
                             </div>
                         </div>
                         <div className="carousel-item">
-                            <img className="d-block w-100" src={weatherdash} alt="Fifth slide"/>
+                            <a href="https://jarretebarnett.github.io/weatherdashboard/" rel="noreferrer" target="_blank"><img className="d-block w-100" src={weatherdash} alt="Fifth slide"/></a>
                             <div className="carousel-caption d-none d-md-block">
                                 <h1><span className="badge bg-black"><a id="title-glow" href="https://jarretebarnett.github.io/weatherdashboard/" rel="noreferrer" target="_blank">Weather API Dashboard </a><a href="https://github.com/jarretebarnett/weatherdashboard" rel="noreferrer" target="_blank"><img src={githublogo} style={{ maxWidth: 22 }} alt=""/></a></span></h1>
                                 <h4><span className="badge bg-black">A dashboard page utilizing the OpenWeatherMap API.</span></h4>
