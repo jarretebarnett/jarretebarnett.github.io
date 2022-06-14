@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a28e4534.css",
-    "main.js": "/static/js/main.01cf2234.js",
+    "main.js": "/static/js/main.04531d9d.js",
     "static/js/787.b9ec5bb0.chunk.js": "/static/js/787.b9ec5bb0.chunk.js",
     "static/media/tunnel.gif": "/static/media/tunnel.3239baf4f321ffeef82e.gif",
     "static/media/googlebooks.png": "/static/media/googlebooks.129f5d72716e755a32e5.png",
@@ -9,18 +9,18 @@
     "static/media/betaportfolio.png": "/static/media/betaportfolio.571e2c2843303f881a02.png",
     "static/media/weatherdash.png": "/static/media/weatherdash.53a983df68a4cb169b4a.png",
     "static/media/lyrichord.png": "/static/media/lyrichord.7af18551818377c7be12.png",
-    "static/media/youtube.png": "/static/media/youtube.87f7383d3426acdeb2a1.png",
     "static/media/instagram.jpg": "/static/media/instagram.2fb2f8772dfbd51948a6.jpg",
     "static/media/twitch.png": "/static/media/twitch.2e6d630f7a30e8c0769a.png",
+    "static/media/youtube.png": "/static/media/youtube.5a4f2af65d9dbe1c78ab.png",
     "static/media/facebook.png": "/static/media/facebook.1975b265c488bf4ba33c.png",
     "static/media/githublogo.png": "/static/media/githublogo.108a52719b489fabc698.png",
     "index.html": "/index.html",
     "main.a28e4534.css.map": "/static/css/main.a28e4534.css.map",
-    "main.01cf2234.js.map": "/static/js/main.01cf2234.js.map",
+    "main.04531d9d.js.map": "/static/js/main.04531d9d.js.map",
     "787.b9ec5bb0.chunk.js.map": "/static/js/787.b9ec5bb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a28e4534.css",
-    "static/js/main.01cf2234.js"
+    "static/js/main.04531d9d.js"
   ]
 }
