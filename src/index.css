@@ -36,6 +36,7 @@ body {
   border-radius: 0px;
   color: white !important;
   text-decoration: none !important;
+  animation: fadeIn 4.75s;
 }
 
 code {
@@ -77,15 +78,15 @@ h1 {
   color: white !important;
 }
 
-h1.fade-one {
-  animation: fadeIn 6.75s;
+/* h1.fade-one {
+  animation: fadeIn 4.75s;
 }
 h1.fade-two {
-  animation: fadeIn 7.75s;
+  animation: fadeIn 5.75s;
 }
 h1.fade-three {
-  animation: fadeIn 8.75s;
-}
+  animation: fadeIn 6.75s;
+} */
 
 p.statement {
   font-family: 'Bebas Neue';
@@ -100,15 +101,15 @@ p.statement {
     0 0 11px rgb(255, 255, 255),
     0 0 19px rgb(255, 255, 255),
     0 0 40px rgb(233, 233, 233),
-    0 0 80px rgb(200, 200, 200),
-    0 0 90px rgb(166, 166, 166),
+    0 0 60px rgb(200, 200, 200),
+    0 0 80px rgb(166, 166, 166),
     0 0 100px rgb(125, 125, 125),
-    0 0 150px rgb(97, 97, 97);
-  animation: fadeIn 12.25s !important;
+    0 0 120px rgb(97, 97, 97);
+  animation: fadeIn 9.5s !important;
 }
 
 #slider {
-  animation: fadeIn 9.5s !important;
+  animation: fadeIn 8.5s !important;
 }
 
 .page-title {
@@ -125,7 +126,7 @@ p.statement {
     0 0 80px rgb(166, 166, 166),
     0 0 100px rgb(125, 125, 125),
     0 0 120px rgb(97, 97, 97);
-  animation: fadeIn 7.5s !important;
+  animation: fadeIn 5.5s !important;
   opacity: 78% !important;
 }
 
@@ -136,6 +137,25 @@ p.statement {
     0 0 19px rgb(237, 237, 237),
     0 0 40px rgb(233, 233, 233),
     0 0 60px rgb(200, 200, 200);
+}
+
+#social-glow:hover {
+  text-shadow:
+    0 0 4px rgb(255, 255, 255),
+    0 0 11px rgb(242, 242, 242),
+    0 0 19px rgb(237, 237, 237),
+    0 0 40px rgb(233, 233, 233),
+    0 0 60px rgb(200, 200, 200);
+}
+
+.lean-right {
+  text-align: right;
+  font-size: 23px;
+}
+
+.lean {
+  text-align: right;
+  font-size: 15px;
 }
 
 hr {
@@ -160,7 +180,7 @@ nav.navbar {
   z-index: 1;
   display: block !important;
   opacity: 78% !important;
-  animation: fadeIn 5.75s !important;
+  animation: fadeIn 3.25s !important;
 }
 
 .label {
@@ -250,6 +270,7 @@ a {
 }
 
 #colTitle {
+  width: 11rem;
   margin-top: 3.5%;
   margin-bottom: 6.5%;
 }
