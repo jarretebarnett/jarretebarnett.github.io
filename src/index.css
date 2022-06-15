@@ -67,6 +67,8 @@ code {
 
 ::-webkit-scrollbar-thumb {
   background: rgb(40, 40, 40);
+  /* width: 10px; */
+  border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -304,6 +306,37 @@ a {
   width: 11rem;
   margin-top: 3.5%;
   margin-bottom: 3.5%;
+}
+
+#expWindow {
+  overflow: auto;
+  display: block !important;
+  /* float: right; */
+  height: 410px;
+}
+
+#clientName {
+  font-size: 22px;
+  margin-bottom: 3px;
+}
+
+#posName {
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+#expDate {
+  font-size: 16px;
+  margin-bottom: 3px;
+}
+
+#coName {
+  margin-bottom: 3px;
+}
+
+#desc {
+  font-size: 14px;
+  /* text-align: center; */
 }
   
 abbr[title] {
