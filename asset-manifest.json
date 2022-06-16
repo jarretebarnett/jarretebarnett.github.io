@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b4f82bfd.css",
-    "main.js": "/static/js/main.5ef0544b.js",
+    "main.css": "/static/css/main.fd6029ca.css",
+    "main.js": "/static/js/main.63070d2e.js",
     "static/js/787.b9ec5bb0.chunk.js": "/static/js/787.b9ec5bb0.chunk.js",
     "static/media/tunnel.gif": "/static/media/tunnel.3239baf4f321ffeef82e.gif",
     "static/media/googlebooks.png": "/static/media/googlebooks.129f5d72716e755a32e5.png",
+    "static/media/Certs.pdf": "/static/media/Certs.904242d1c2c014f8048a.pdf",
     "static/media/trekgambit.png": "/static/media/trekgambit.b8a2d36327db576a5b9f.png",
     "static/media/betaportfolio.png": "/static/media/betaportfolio.571e2c2843303f881a02.png",
     "static/media/weatherdash.png": "/static/media/weatherdash.53a983df68a4cb169b4a.png",
+    "static/media/ResumeDoc.pdf": "/static/media/ResumeDoc.cb87911cf0d079c06fe1.pdf",
     "static/media/lyrichord.png": "/static/media/lyrichord.7af18551818377c7be12.png",
     "static/media/instagram.jpg": "/static/media/instagram.2fb2f8772dfbd51948a6.jpg",
     "static/media/twitch.png": "/static/media/twitch.2e6d630f7a30e8c0769a.png",
@@ -15,12 +17,12 @@
     "static/media/facebook.png": "/static/media/facebook.1975b265c488bf4ba33c.png",
     "static/media/githublogo.png": "/static/media/githublogo.108a52719b489fabc698.png",
     "index.html": "/index.html",
-    "main.b4f82bfd.css.map": "/static/css/main.b4f82bfd.css.map",
-    "main.5ef0544b.js.map": "/static/js/main.5ef0544b.js.map",
+    "main.fd6029ca.css.map": "/static/css/main.fd6029ca.css.map",
+    "main.63070d2e.js.map": "/static/js/main.63070d2e.js.map",
     "787.b9ec5bb0.chunk.js.map": "/static/js/787.b9ec5bb0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4f82bfd.css",
-    "static/js/main.5ef0544b.js"
+    "static/css/main.fd6029ca.css",
+    "static/js/main.63070d2e.js"
   ]
 }
