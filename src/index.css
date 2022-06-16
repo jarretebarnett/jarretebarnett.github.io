@@ -312,6 +312,8 @@ a {
   overflow: auto;
   display: block !important;
   height: 410px;
+  padding-top: 3.5%;
+  padding-bottom: 3.5%;
   -webkit-animation: fadeIn 8.5s !important;
   -moz-animation: fadeIn 8.5s !important;
   -o-animation: fadeIn 8.5s !important;
@@ -366,6 +368,28 @@ p.clientName {
     0 0 9px rgb(237, 237, 237),
     0 0 11px rgb(233, 233, 233),
     0 0 13px rgb(200, 200, 200);
+}
+
+footer {
+  text-align: center;
+  font-family: 'Bebas Neue';
+  font-size: 9px;
+  color: rgb(255, 255, 255);
+  margin-top: auto;
+  position: fixed;
+  left: 0 ; right: 0; bottom: 0; 
+  height:[footer-height];
+  padding-bottom: 14px;
+  text-shadow:
+    0 0 4px rgb(255, 255, 255),
+    0 0 11px rgb(242, 242, 242),
+    0 0 19px rgb(237, 237, 237),
+    0 0 40px rgb(233, 233, 233),
+    0 0 60px rgb(200, 200, 200);
+  -webkit-animation: fadeIn 8.5s !important;
+  -moz-animation: fadeIn 8.5s !important;
+  -o-animation: fadeIn 8.5s !important;
+  animation: fadeIn 8.5s !important;
 }
   
 abbr[title] {
