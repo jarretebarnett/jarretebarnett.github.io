@@ -134,7 +134,7 @@ p.statement {
 
 .page-title {
   font-family: 'Bebas Neue';
-  font-size: 52px;
+  font-size: 58px;
   text-align: center;
   color: white;
   text-shadow:
@@ -311,22 +311,26 @@ a {
 #expWindow {
   overflow: auto;
   display: block !important;
-  /* float: right; */
   height: 410px;
+  -webkit-animation: fadeIn 8.5s !important;
+  -moz-animation: fadeIn 8.5s !important;
+  -o-animation: fadeIn 8.5s !important;
+  animation: fadeIn 8.5s !important;
 }
 
-#clientName {
-  font-size: 22px;
+p.clientName {
+  font-size: 18px;
+  margin-left: 16px;
   margin-bottom: 3px;
 }
 
 #posName {
-  font-size: 18px;
+  font-size: 15px;
   margin-bottom: 3px;
 }
 
 #expDate {
-  font-size: 16px;
+  font-size: 13.5px;
   margin-bottom: 3px;
 }
 
@@ -335,8 +339,33 @@ a {
 }
 
 #desc {
-  font-size: 14px;
-  /* text-align: center; */
+  font-size: 12px;
+  display: block !important;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  white-space: normal;
+  text-align: right;
+}
+
+#downloadBtn {
+  display: block !important;
+  margin: 3px;
+  margin-left: -1500px;
+  text-align: right;
+  font-size: 14.5px;
+  -webkit-animation: fadeIn 8.5s !important;
+  -moz-animation: fadeIn 8.5s !important;
+  -o-animation: fadeIn 8.5s !important;
+  animation: fadeIn 8.5s !important;
+}
+
+#downloadBtn:hover {
+  text-shadow:
+    0 0 4px rgb(255, 255, 255),
+    0 0 7px rgb(242, 242, 242),
+    0 0 9px rgb(237, 237, 237),
+    0 0 11px rgb(233, 233, 233),
+    0 0 13px rgb(200, 200, 200);
 }
   
 abbr[title] {
