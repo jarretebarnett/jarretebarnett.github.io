@@ -42,7 +42,7 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
-                            <p id="coName">William Raveis Real Estate Inc.</p>
+                            <p id="coName">William Raveis Real Estate</p>
                             <ul>
                                 <li id="posName">Licensed Real Estate Sales Associate</li>
                                 <li id="expDate">February 2020 ⤬ Present</li>
@@ -59,7 +59,7 @@ function Experience() {
                                 <li id="posName">Licensed Real Estate Sales Associate</li>
                                 <li id="expDate">July 2019 ⤬ January 2020</li>
                                 <ul>
-                                    <li id="desc">⦿ Consultative experience with sellers and buyers, inquiring about the marketability of their homes relative existing inventory and proximity, as well as setting buyers’ expectations in the prospective market.</li>
+                                    <li id="desc">⦿ Consultative experience with sellers inquiring about the marketability of their homes relative to existing inventory and proximity.</li>
                                     <li id="desc">⦿ Managed client expectations proceeding closings, as well as the technical diligence required to research relevant property data for customers.</li>
                                     <li id="desc">⦿ Closed over $200,000 of volume within the first three months of licensure. Effectively closed home purchases expediently in a six-week timeframe.</li>
                                 </ul>
