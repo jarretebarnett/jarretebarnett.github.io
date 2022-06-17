@@ -320,13 +320,13 @@ a {
   animation: fadeIn 8.5s !important;
 }
 
-.clientName {
+p.clientName {
   font-size: 18px;
   margin-left: 16px;
   margin-bottom: 3px;
 }
 
-.clientName:hover {
+p.clientName:hover {
   text-shadow:
     0 0 4px rgb(255, 255, 255),
     0 0 8px rgb(242, 242, 242),

@@ -41,20 +41,20 @@ function Experience() {
                 <div className="col-9">
                     <h1><span id="expWindow" className="badge bg-black">
                         <div>
-                            <a id="coName" href="https://turnberrysolutions.com/" rel="noreferrer" target="_blank">Turnberry Solutions <img src={turnberrysolutions} style={{ maxWidth: 22 }} alt=""/></a>
-                            <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 22 }} alt=""/></p>
+                            <a id="coName" href="https://turnberrysolutions.com/" rel="noreferrer" target="_blank">Turnberry Solutions <img src={turnberrysolutions} style={{ maxWidth: 18 }} alt=""/></a>
+                            <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 18 }} alt=""/></p>
                             <ul>
                                 <li id="posName">Software Engineer Associate I</li>
                                 <li id="expDate">May 2022 ⤬ Present</li>
                                 <ul>
-                                    <li id="desc">⦿</li>
-                                    <li id="desc">⦿</li>
-                                    <li id="desc">⦿</li>
+                                    <li id="desc">⦿ Team is tasked with the responsibility of developing Pay with Points and Pay with Rewards features which offers users redemption rewards for eligible purchases.</li>
+                                    <li id="desc">⦿ Make daily collaborative effort with product managers and team members to designate top priority stories that can be managed and completed within current or upcoming iterations and sprints, discuss best practices when necessary, and commit to weekly elaborations on anemic design stories.</li>
+                                    <li id="desc">⦿ Granted access to company repositories to modify applications and files as needed in order to optimize configuration and functionality, as well as eliminate any conflicting or obsolete code.</li>
                                 </ul>
                             </ul>
                         </div>
                         <div>
-                            <a id="coName" href="https://www.thecoderschool.com/" rel="noreferrer" target="_blank">The Coder School <img src={coderschool} style={{ maxWidth: 67 }} alt=""/></a>
+                            <a id="coName" href="https://www.thecoderschool.com/" rel="noreferrer" target="_blank">The Coder School <img src={coderschool} style={{ maxWidth: 50 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Instructional Coach</li>
                                 <li id="expDate">November 2021 ⤬ April 2022</li>
@@ -66,7 +66,7 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
-                            <a id="coName" href="https://www.raveis.com/" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 52 }} alt=""/></a>
+                            <a id="coName" href="https://www.raveis.com/" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 35 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Licensed Real Estate Sales Associate</li>
                                 <li id="expDate">February 2020 ⤬ Present</li>
@@ -78,7 +78,7 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
-                            <a id="coName" href="https://www.kw.com/" rel="noreferrer" target="_blank">Keller Williams Realty <img src={kellerwilliams} style={{ maxWidth: 33 }} alt=""/></a>
+                            <a id="coName" href="https://www.kw.com/" rel="noreferrer" target="_blank">Keller Williams Realty <img src={kellerwilliams} style={{ maxWidth: 24 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Licensed Real Estate Sales Associate</li>
                                 <li id="expDate">July 2019 ⤬ January 2020</li>
