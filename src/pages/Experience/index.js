@@ -23,8 +23,6 @@ import dotenv from "../../assets/img/dotenv.png";
 import socketio from "../../assets/img/socketio.png";
 import sql from "../../assets/img/sql.png";
 import mongologo from "../../assets/img/mongodb.png";
-// import api from "../../assets/img/api.png";
-// import handlebars from "../../assets/img/handlebarsjs.png";
 
 function Experience() {
     return (
@@ -47,9 +45,10 @@ function Experience() {
                                 <li id="posName">Software Engineer Associate I</li>
                                 <li id="expDate">May 2022 ⤬ Present</li>
                                 <ul>
-                                    <li id="desc">⦿ Team is tasked with the responsibility of developing Pay with Points and Pay with Rewards features which offers users redemption rewards for eligible purchases.</li>
-                                    <li id="desc">⦿ Make daily collaborative effort with product managers and team members to designate top priority stories that can be managed and completed within current or upcoming iterations and sprints, discuss best practices when necessary, and commit to weekly elaborations on anemic design stories.</li>
+                                    <li id="desc">⦿ Team is tasked with the responsibility of developing and refining Pay with Points and Pay with Rewards features which offers users redemption rewards for eligible purchases.</li>
+                                    <li id="desc">⦿ Make daily collaborative effort with product managers to designate top priority stories that can be managed and completed within current or upcoming sprints and iterations.</li>
                                     <li id="desc">⦿ Granted access to company repositories to modify applications and files as needed in order to optimize configuration and functionality, as well as eliminate any conflicting or obsolete code.</li>
+                                    <li id="desc">⦿ Discuss best practices with team members when necessary, and commit to bi-weekly elaborations on anemic design stories.</li>
                                 </ul>
                             </ul>
                         </div>
@@ -110,11 +109,8 @@ function Experience() {
                                     <img src={nodemon} style={{ maxWidth: 37 }} alt=""></img>
                                     <img src={dotenv} style={{ maxWidth: 37 }} alt=""></img>
                                     <img src={socketio} style={{ maxWidth: 40 }} alt=""></img>
-                                    <img src={sql} style={{ maxWidth: 40 }} alt=""></img>
-                                    <img src={mongologo} style={{ maxWidth: 26 }} alt=""></img>
-                                    {/* <img src={awslogo} style={{ maxWidth: 43 }} alt=""></img>
-                                    <img src={api} style={{ maxWidth: 53 }} alt=""></img>
-                                    <img src={handlebars} style={{ maxWidth: 46 }} alt=""></img> */}
+                                    <img src={sql} style={{ maxWidth: 35 }} alt=""></img>
+                                    <img src={mongologo} style={{ maxWidth: 22 }} alt=""></img>
                                 </div>
                             </div>
                         </div>
