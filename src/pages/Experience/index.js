@@ -1,6 +1,30 @@
 import React from "react";
 import resume from "../../assets/docs/ResumeDoc.pdf";
 import certs from "../../assets/docs/Certs.pdf";
+import turnberrysolutions from "../../assets/img/turnberrysolutions.png";
+import mastercard from "../../assets/img/mastercard.png";
+import coderschool from "../../assets/img/thecoderschool.png";
+import williamraveis from "../../assets/img/williamraveis.png";
+import kellerwilliams from "../../assets/img/kellerwilliams.png";
+import html from "../../assets/img/html.png";
+import css from "../../assets/img/css.png";
+import java from "../../assets/img/java.png";
+import js from "../../assets/img/js.png";
+import typescript from "../../assets/img/typescript.png";
+import jquery from "../../assets/img/jquery.png";
+import pythonlogo from "../../assets/img/python.png";
+import reactjs from "../../assets/img/react.png";
+import angularjs from "../../assets/img/angular.png";
+import gitlogo from "../../assets/img/gitlogo.png";
+import node from "../../assets/img/node.png";
+import npm from "../../assets/img/npm.png";
+import nodemon from "../../assets/img/nodemon.png";
+import dotenv from "../../assets/img/dotenv.png";
+import socketio from "../../assets/img/socketio.png";
+import sql from "../../assets/img/sql.png";
+import mongologo from "../../assets/img/mongodb.png";
+// import api from "../../assets/img/api.png";
+// import handlebars from "../../assets/img/handlebarsjs.png";
 
 function Experience() {
     return (
@@ -17,8 +41,8 @@ function Experience() {
                 <div className="col-9">
                     <h1><span id="expWindow" className="badge bg-black">
                         <div>
-                            <p id="coName">Turnberry Solutions</p>
-                            <p className="clientName">Mastercard</p>
+                            <a id="coName" href="https://turnberrysolutions.com/" rel="noreferrer" target="_blank">Turnberry Solutions <img src={turnberrysolutions} style={{ maxWidth: 22 }} alt=""/></a>
+                            <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 22 }} alt=""/></p>
                             <ul>
                                 <li id="posName">Software Engineer Associate I</li>
                                 <li id="expDate">May 2022 ⤬ Present</li>
@@ -30,7 +54,7 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
-                            <p id="coName">The Coder School</p>
+                            <a id="coName" href="https://www.thecoderschool.com/" rel="noreferrer" target="_blank">The Coder School <img src={coderschool} style={{ maxWidth: 67 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Instructional Coach</li>
                                 <li id="expDate">November 2021 ⤬ April 2022</li>
@@ -42,7 +66,7 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
-                            <p id="coName">William Raveis Real Estate</p>
+                            <a id="coName" href="https://www.raveis.com/" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 52 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Licensed Real Estate Sales Associate</li>
                                 <li id="expDate">February 2020 ⤬ Present</li>
@@ -54,7 +78,7 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
-                            <p id="coName">Keller Williams Realty</p>
+                            <a id="coName" href="https://www.kw.com/" rel="noreferrer" target="_blank">Keller Williams Realty <img src={kellerwilliams} style={{ maxWidth: 33 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Licensed Real Estate Sales Associate</li>
                                 <li id="expDate">July 2019 ⤬ January 2020</li>
@@ -64,6 +88,35 @@ function Experience() {
                                     <li id="desc">⦿ Closed over $200,000 of volume within the first three months of licensure. Effectively closed home purchases expediently in a six-week timeframe.</li>
                                 </ul>
                             </ul>
+                        </div>
+                        <br />
+                        <br />
+                        <div>
+                            <p className="proficiencies">Proficiencies</p>
+                            <div>
+                                <div id="profs" className="row-cols-auto">
+                                    <img src={html} style={{ maxWidth: 28 }} alt=""></img>
+                                    <img src={css} style={{ maxWidth: 29 }} alt=""></img>
+                                    <img src={java} style={{ maxWidth: 32 }} alt=""></img>
+                                    <img src={js} style={{ maxWidth: 41 }} alt=""></img>
+                                    <img src={typescript} style={{ maxWidth: 42 }} alt=""></img>
+                                    <img src={jquery} style={{ maxWidth: 48 }} alt=""></img>
+                                    <img src={pythonlogo} style={{ maxWidth: 33 }} alt=""></img>
+                                    <img src={reactjs} style={{ maxWidth: 38 }} alt=""></img>
+                                    <img src={angularjs} style={{ maxWidth: 34 }} alt=""></img>
+                                    <img src={gitlogo} style={{ maxWidth: 36 }} alt=""></img>
+                                    <img src={node} style={{ maxWidth: 33 }} alt=""></img>
+                                    <img src={npm} style={{ maxWidth: 54 }} alt=""></img>
+                                    <img src={nodemon} style={{ maxWidth: 37 }} alt=""></img>
+                                    <img src={dotenv} style={{ maxWidth: 37 }} alt=""></img>
+                                    <img src={socketio} style={{ maxWidth: 40 }} alt=""></img>
+                                    <img src={sql} style={{ maxWidth: 40 }} alt=""></img>
+                                    <img src={mongologo} style={{ maxWidth: 26 }} alt=""></img>
+                                    {/* <img src={awslogo} style={{ maxWidth: 43 }} alt=""></img>
+                                    <img src={api} style={{ maxWidth: 53 }} alt=""></img>
+                                    <img src={handlebars} style={{ maxWidth: 46 }} alt=""></img> */}
+                                </div>
+                            </div>
                         </div>
                     </span></h1>
                 </div>

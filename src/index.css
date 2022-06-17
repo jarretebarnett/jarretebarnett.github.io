@@ -320,8 +320,24 @@ a {
   animation: fadeIn 8.5s !important;
 }
 
-p.clientName {
+.clientName {
   font-size: 18px;
+  margin-left: 16px;
+  margin-bottom: 3px;
+}
+
+.clientName:hover {
+  text-shadow:
+    0 0 4px rgb(255, 255, 255),
+    0 0 8px rgb(242, 242, 242),
+    0 0 12px rgb(237, 237, 237),
+    0 0 15px rgb(233, 233, 233),
+    0 0 19px rgb(200, 200, 200);
+}
+
+p.proficiencies {
+  font-size: 22px;
+  text-align: right;
   margin-left: 16px;
   margin-bottom: 3px;
 }
@@ -338,6 +354,15 @@ p.clientName {
 
 #coName {
   margin-bottom: 3px;
+}
+
+#coName:hover {
+  text-shadow:
+    0 0 4px rgb(255, 255, 255),
+    0 0 11px rgb(242, 242, 242),
+    0 0 17px rgb(237, 237, 237),
+    0 0 24px rgb(233, 233, 233),
+    0 0 30px rgb(200, 200, 200);
 }
 
 #desc {
@@ -369,6 +394,15 @@ p.clientName {
     0 0 9px rgb(237, 237, 237),
     0 0 11px rgb(233, 233, 233),
     0 0 13px rgb(200, 200, 200);
+}
+
+#profs {
+  display: block !important;
+  padding: 12px;
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 20px;
+  white-space: normal;
 }
 
 footer {
