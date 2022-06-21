@@ -305,13 +305,13 @@ a {
 #colTitle {
   width: 11rem;
   margin-top: 3.5%;
-  margin-bottom: 3.5%;
+  margin-bottom: 2%;
 }
 
 #expWindow {
   overflow: auto;
   display: block !important;
-  height: 410px;
+  height: 355px;
   padding-top: 3.5%;
   padding-bottom: 3.5%;
   -webkit-animation: fadeIn 8.5s !important;
