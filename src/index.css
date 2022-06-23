@@ -92,15 +92,24 @@ h1 {
   color: white !important;
 }
 
-/* h1.fade-one {
-  animation: fadeIn 4.75s;
+h1.fade-one {
+  -webkit-animation: fadeIn 4.75s !important;
+  -moz-animation: fadeIn 4.75s !important;
+  -o-animation: fadeIn 4.75s !important;
+  animation: fadeIn 4.75s !important;
 }
 h1.fade-two {
-  animation: fadeIn 5.75s;
+  -webkit-animation: fadeIn 5.75s !important;
+  -moz-animation: fadeIn 5.75s !important;
+  -o-animation: fadeIn 5.75s !important;
+  animation: fadeIn 5.75s !important;
 }
 h1.fade-three {
-  animation: fadeIn 6.75s;
-} */
+  -webkit-animation: fadeIn 6.75s !important;
+  -moz-animation: fadeIn 6.75s !important;
+  -o-animation: fadeIn 6.75s !important;
+  animation: fadeIn 6.75s !important;
+}
 
 p.statement {
   font-family: 'Bebas Neue';
@@ -119,10 +128,10 @@ p.statement {
     0 0 80px rgb(166, 166, 166),
     0 0 100px rgb(125, 125, 125),
     0 0 120px rgb(97, 97, 97);
-  -webkit-animation: fadeIn 8.5s !important;
-  -moz-animation: fadeIn 8.5s !important;
-  -o-animation: fadeIn 8.5s !important;
-  animation: fadeIn 8.5s !important;
+  -webkit-animation: fadeIn 9.5s !important;
+  -moz-animation: fadeIn 9.5s !important;
+  -o-animation: fadeIn 9.5s !important;
+  animation: fadeIn 9.5s !important;
 }
 
 #slider {
@@ -171,12 +180,12 @@ p.statement {
     0 0 60px rgb(200, 200, 200);
 }
 
-#fadeContacts {
+/* #fadeContacts {
   -webkit-animation: fadeIn 8.5s !important;
   -moz-animation: fadeIn 8.5s !important;
   -o-animation: fadeIn 8.5s !important;
   animation: fadeIn 8.5s !important;
-}
+} */
 
 .lean-right {
   text-align: right;
@@ -381,6 +390,7 @@ p.proficiencies {
   margin-right: -15px;
   text-align: right;
   font-size: 12px;
+  opacity: 78% !important;
   -webkit-animation: fadeIn 8.5s !important;
   -moz-animation: fadeIn 8.5s !important;
   -o-animation: fadeIn 8.5s !important;
