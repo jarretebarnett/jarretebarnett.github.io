@@ -27,7 +27,7 @@ function Contact() {
                         </div>
                         <br />
                         <div className="row">
-                            <a id="social-glow" className="lean-right" href="https://www.instagram.com/jarretebarnett/" rel="noreferrer" target="_blank">Instagram <img src={instagram} style={{ maxWidth: 20 }} alt=""/></a>
+                            <a id="social-glow" className="lean-right" href="https://www.instagram.com/jarrete.io/" rel="noreferrer" target="_blank">Instagram <img src={instagram} style={{ maxWidth: 20 }} alt=""/></a>
                         </div>
                         <br />
                         <div className="row">
@@ -39,7 +39,7 @@ function Contact() {
                         </div>
                         <br />
                         <div className="row">
-                            <a id="social-glow" className="lean-right" href="https://twitter.com/jarrete_barnett" rel="noreferrer" target="_blank">Twitter <img src={twitter} style={{ maxWidth: 20 }} alt=""/></a>
+                            <a id="social-glow" className="lean-right" href="https://twitter.com/jarretedotio" rel="noreferrer" target="_blank">Twitter <img src={twitter} style={{ maxWidth: 20 }} alt=""/></a>
                         </div>
                         <br />
                         <div className="row">
