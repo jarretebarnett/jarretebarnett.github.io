@@ -4,7 +4,12 @@
 
 ###### <a href="https://jarretebarnett.github.io">VISIT HERE</a>
 #### TABLE OF CONTENTS
-* ###### OVERVIEW
-* ###### PAGE BREAKDOWN
-* ###### SCRIPTS ⤬ DEPENDENCIES
-* ###### INFORMATION
+* ###### [OVERVIEW](#overview)
+* ###### [PAGE BREAKDOWN](#page-breakdown)
+* ###### [SCRIPTS ⤬ DEPENDENCIES](#scripts-⤬-dependencies)
+* ###### [INFORMATION](#information)
+
+##### OVERVIEW
+##### PAGE BREAKDOWN
+##### SCRIPTS ⤬ DEPENDENCIES
+##### INFORMATION
