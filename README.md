@@ -17,3 +17,6 @@
 ![Contact Page](src/assets//img//portfoliocontact.png)
 ##### SCRIPTS ⤬ DEPENDENCIES
 ##### INFORMATION
+<br />
+<br />
+<p align="center"><a href="https://www.facebook.com/jarrete.y.barnett/" rel="noreferrer" target="_blank"><img alt="alt_text" width="40px" src="src/assets/img/facebook.png" /></a>   <a href="https://www.linkedin.com/in/jarretebarnett" rel="noreferrer" target="_blank"><img alt="alt_text" width="40px" src="src/assets/img/linkedin.png" /></a>   <a href="https://www.twitter.com/jarretedotio" rel="noreferrer" target="_blank"><img alt="alt_text" width="40px" src="src/assets/img/twitter.png" /></a></p>
