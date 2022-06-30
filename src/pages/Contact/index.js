@@ -53,7 +53,7 @@ function Contact() {
                         </div>
                         <br />
                         <div className="row">
-                            <p className="lean">e: jarretebarnett<br/>@gmail.com</p>
+                            <p className="lean">e: jy.barnett.io<br/>@gmail.com</p>
                         </div>
                         <br />
                         <div className="row">
