@@ -49,23 +49,23 @@ function Contact() {
                     <div id="colTitle" className="col-auto">
                         <p>Communication</p>
                         <div className="row">
-                            <p className="lean">m: 1-860-614-9019</p>
+                            <a id="social-glow" href="18606149019"><p className="lean">m: 1-860-614-9019</p></a>
                         </div>
                         <br />
                         <div className="row">
-                            <p className="lean">e: jy.barnett.io<br/>@gmail.com</p>
+                            <a id="social-glow" href="mailto:jy.barnett.io@gmail.com"><p className="lean">e: jy.barnett.io<br/>@gmail.com</p></a>
                         </div>
                         <br />
                         <div className="row">
-                            <p className="lean">w: jarrete.barnett<br/>@turnberrysolutions.com</p>
+                            <a id="social-glow" href="mailto:jarrete.barnett@turnberrysolutions.com"><p className="lean">w: jarrete.barnett<br/>@turnberrysolutions.com</p></a>
                         </div>
                         <br />
                         <div className="row">
-                            <p className="lean">w: jarrete.barnett<br/>@mastercard.com</p>
+                            <a id="social-glow" href="mailto:jarrete.barnett@mastercard.com"><p className="lean">w: jarrete.barnett<br/>@mastercard.com</p></a>
                         </div>
                         <br />
                         <div className="row">
-                            <p className="lean">w: jarrete.barnett<br/>@raveis.com</p>
+                            <a id="social-glow" href="mailto:jarrete.barnett@raveis.com"><p className="lean">w: jarrete.barnett<br/>@raveis.com</p></a>
                         </div>
                     </div>
                 </div>
