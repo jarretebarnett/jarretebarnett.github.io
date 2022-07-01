@@ -49,7 +49,7 @@ function Contact() {
                     <div id="colTitle" className="col-auto">
                         <p>Communication</p>
                         <div className="row">
-                            <a id="social-glow" href="18606149019"><p className="lean">m: 1-860-614-9019</p></a>
+                            <a id="social-glow" href="tel:18606149019"><p className="lean">m: 1-860-614-9019</p></a>
                         </div>
                         <br />
                         <div className="row">
