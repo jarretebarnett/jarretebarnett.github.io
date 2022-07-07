@@ -65,7 +65,7 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
-                            <a id="coName" href="https://www.raveis.com/" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 35 }} alt=""/></a>
+                            <a id="coName" href="https://jarretebarnett.raveis.com" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 35 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Licensed Real Estate Sales Associate</li>
                                 <li id="expDate">February 2020 ⤬ Present</li>
