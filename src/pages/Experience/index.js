@@ -45,7 +45,7 @@ function Experience() {
                                 <li id="posName">Software Engineer Associate I</li>
                                 <li id="expDate">May 2022 ⤬ Present</li>
                                 <ul>
-                                    <li id="desc">⦿ Team is tasked with the responsibility of developing and refining Pay with Points and Pay with Rewards features which offers users redemption rewards for eligible purchases.</li>
+                                    <li id="desc">⦿ Team is tasked with the responsibility of developing and refining Pay with Rewards features which offers users redemption rewards for eligible purchases.</li>
                                     <li id="desc">⦿ Make daily collaborative effort with product managers to designate top priority stories that can be managed and completed within current or upcoming sprints and iterations.</li>
                                     <li id="desc">⦿ Granted access to company repositories to modify applications and files as needed in order to optimize configuration and functionality, as well as eliminate any conflicting or obsolete code.</li>
                                     <li id="desc">⦿ Discuss best practices with team members when necessary, and commit to bi-weekly elaborations on anemic design stories.</li>
