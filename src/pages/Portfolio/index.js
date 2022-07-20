@@ -5,6 +5,7 @@ import googlebooks from "../../assets/img/googlebooks.png";
 import betaportfolio from "../../assets/img/betaportfolio.png";
 import lyrichord from "../../assets/img/lyrichord.png";
 import weatherdash from "../../assets/img/weatherdash.png";
+import nodesql from "../../assets/img/nodesql.png";
 
 function Portfolio() {
     return (
@@ -21,6 +22,7 @@ function Portfolio() {
                         <li data-target="#carouselIndicators" data-slide-to="2"></li>
                         <li data-target="#carouselIndicators" data-slide-to="3"></li>
                         <li data-target="#carouselIndicators" data-slide-to="4"></li>
+                        <li data-target="#carouselIndicators" data-slide-to="5"></li>
                     </ol>
                     <div className="carousel-inner">
                         <div className="carousel-item active">
@@ -56,6 +58,13 @@ function Portfolio() {
                             <div className="carousel-caption d-none d-md-block">
                                 <h1><span className="badge bg-black"><a id="title-glow" href="https://jarretebarnett.github.io/weatherdashboard/" rel="noreferrer" target="_blank">Weather API Dashboard </a><a href="https://github.com/jarretebarnett/weatherdashboard" rel="noreferrer" target="_blank"><img src={githublogo} style={{ maxWidth: 22 }} alt=""/></a></span></h1>
                                 <h4><span className="badge bg-black">A dashboard page utilizing the OpenWeatherMap API.</span></h4>
+                            </div>
+                        </div>
+                        <div className="carousel-item">
+                            <a href="https://github.com/jarretebarnett/ecommerceSQL" rel="noreferrer" target="_blank"><img className="d-block w-100" src={nodesql} alt="Sixth slide"/></a>
+                            <div className="carousel-caption d-none d-md-block">
+                                <h1><span className="badge bg-black"><a id="title-glow" href="https://github.com/jarretebarnett/ecommerceSQL" rel="noreferrer" target="_blank">Node SQL ECommerce Database</a></span></h1>
+                                <h4><span className="badge bg-black">A backend configuration using Sequelize to connect to a SQL database.</span></h4>
                             </div>
                         </div>
                     </div>

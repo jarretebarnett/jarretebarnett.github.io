@@ -51,6 +51,10 @@ body {
   animation: fadeIn 6.25s !important;
 }
 
+#portDesc {
+  padding-right: 100px;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
