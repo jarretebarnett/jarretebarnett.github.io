@@ -26,7 +26,7 @@ import mongologo from "../../assets/img/mongodb.png";
 
 function Experience() {
     return (
-        <div className="container">
+        <div className="container" id="fadeContacts">
             <br />
             <br />
             <div className="page-title">Experience</div>
@@ -39,21 +39,22 @@ function Experience() {
                 <div className="col-9">
                     <h1><span id="expWindow" className="badge bg-black">
                         <div>
-                            <a id="coName" href="https://turnberrysolutions.com/" rel="noreferrer" target="_blank">Turnberry Solutions <img src={turnberrysolutions} style={{ maxWidth: 18 }} alt=""/></a>
-                            <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 18 }} alt=""/></p>
+                            <a id="coName" href="https://turnberrysolutions.com/" rel="noreferrer" target="_blank">Turnberry Solutions <img src={turnberrysolutions} style={{ maxWidth: 32 }} alt=""/></a>
+                            <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 39 }} alt=""/></p>
                             <ul>
                                 <li id="posName">Software Engineer Associate I</li>
-                                <li id="expDate">May 2022 ⤬ Present</li>
+                                <li id="expDate">May 2022 ⤬ March 2023</li>
                                 <ul>
                                     <li id="desc">⦿ Team is tasked with the responsibility of developing and refining Pay with Rewards features which offers users redemption rewards for eligible purchases.</li>
                                     <li id="desc">⦿ Make daily collaborative effort with product managers to designate top priority stories that can be managed and completed within current or upcoming sprints and iterations.</li>
-                                    <li id="desc">⦿ Granted access to company repositories to modify applications and files as needed in order to optimize configuration and functionality, as well as eliminate any conflicting or obsolete code.</li>
-                                    <li id="desc">⦿ Discuss best practices with team members when necessary, and commit to bi-weekly elaborations on anemic design stories.</li>
+                                    <li id="desc">⦿ Manage company repositories to modify applications and files as needed in order to optimize configuration and functionality, as well as eliminate any conflicting or obsolete code.</li>
+                                    <li id="desc">⦿ Continual maintenance and validation of code changes and database configurations with the primary purpose of refining and securing REST APIs which handle critical customer data.</li>
+                                    <li id="desc">⦿ Periodically facilitated scrum sessions to discuss best practices with team members when necessary, and committed to regular sprint elaborations to exercise due diligence on recently created or backlogged design stories.</li>
                                 </ul>
                             </ul>
                         </div>
                         <div>
-                            <a id="coName" href="https://www.thecoderschool.com/" rel="noreferrer" target="_blank">The Coder School <img src={coderschool} style={{ maxWidth: 50 }} alt=""/></a>
+                            <a id="coName" href="https://www.thecoderschool.com/" rel="noreferrer" target="_blank">The Coder School <img src={coderschool} style={{ maxWidth: 90 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Instructional Coach</li>
                                 <li id="expDate">November 2021 ⤬ April 2022</li>
@@ -65,7 +66,7 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
-                            <a id="coName" href="https://jarretebarnett.raveis.com" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 35 }} alt=""/></a>
+                            <a id="coName" href="https://jarretebarnett.raveis.com" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 70 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Licensed Real Estate Sales Associate</li>
                                 <li id="expDate">February 2020 ⤬ Present</li>
@@ -77,7 +78,7 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
-                            <a id="coName" href="https://www.kw.com/" rel="noreferrer" target="_blank">Keller Williams Realty <img src={kellerwilliams} style={{ maxWidth: 24 }} alt=""/></a>
+                            <a id="coName" href="https://www.kw.com/" rel="noreferrer" target="_blank">Keller Williams Realty <img src={kellerwilliams} style={{ maxWidth: 48 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Licensed Real Estate Sales Associate</li>
                                 <li id="expDate">July 2019 ⤬ January 2020</li>

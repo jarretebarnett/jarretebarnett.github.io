@@ -2,7 +2,7 @@ import React from 'react';
 
 function Welcome() {
     return (
-        <div className="container">
+        <div className="container" id="fadeContacts">
             <br />
             <br />
             <br />

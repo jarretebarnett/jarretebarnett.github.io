@@ -8,7 +8,7 @@ import weatherdash from "../../assets/img/weatherdash.png";
 
 function Portfolio() {
     return (
-        <div className="container">
+        <div className="container" id="fadeContacts">
             <br />
             <br />
             <div className="page-title">Portfolio</div>
