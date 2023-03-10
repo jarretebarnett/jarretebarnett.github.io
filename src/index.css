@@ -51,6 +51,10 @@ body {
   animation: fadeIn 6.25s !important; */
 }
 
+#welcomeConstraint {
+  max-width: 68rem;
+}
+
 #portDesc {
   padding-right: 100px;
 }
@@ -101,27 +105,27 @@ h1.fade-one {
   -moz-animation: fadeIn 4.75s !important;
   -o-animation: fadeIn 4.75s !important;
   animation: fadeIn 4.75s !important;
-  font-size: 80px;
-  margin-top: 275px;
+  font-size: 50px;
+  margin-top: 400px;
 }
 h1.fade-two {
   -webkit-animation: fadeIn 5.75s !important;
   -moz-animation: fadeIn 5.75s !important;
   -o-animation: fadeIn 5.75s !important;
   animation: fadeIn 5.75s !important;
-  font-size: 80px;
+  font-size: 50px;
 }
 h1.fade-three {
   -webkit-animation: fadeIn 6.75s !important;
   -moz-animation: fadeIn 6.75s !important;
   -o-animation: fadeIn 6.75s !important;
   animation: fadeIn 6.75s !important;
-  font-size: 80px;
+  font-size: 50px;
 }
 
 p.statement {
   font-family: 'Bebas Neue';
-  font-size: 30px;
+  font-size: 22px;
   text-align: center;
   margin-left: 65px;
   margin-right: 65px;
@@ -241,13 +245,13 @@ nav.navbar {
   cursor: pointer;
   background: rgb(0, 0, 0);
   padding: 0.8rem 1rem;
-  width: 33%;
+  width: 18rem;
   display: block !important;
   box-sizing: border-box;
   position: absolute;
   transition: all 0.3s;
   font-family: 'Bebas Neue';
-  font-size: 25px;
+  font-size: 22px;
   color: #ffffff;
   text-decoration: none !important;
 }
@@ -270,7 +274,7 @@ nav.navbar {
   background: rgb(0, 0, 0);
   opacity: 0;
   visibility: hidden;
-  min-width: 33%;
+  min-width: 18rem;
   height: 0;
   position: absolute;
   top: 58px;
@@ -278,7 +282,7 @@ nav.navbar {
   transform: scaleY(0);
   transition: transform 0.3s;
   font-family: 'Bebas Neue';
-  font-size: 25px;
+  font-size: 22px;
   color: #ffffff;
   text-decoration: none !important;
 }
@@ -336,7 +340,7 @@ a {
 #expWindow {
   overflow: auto;
   display: block !important;
-  height: 900px;
+  max-height: 40rem;
   padding-top: 3.5%;
   padding-bottom: 3.5%;
   /* -webkit-animation: fadeIn 8.5s !important;
@@ -401,10 +405,12 @@ p.proficiencies {
 }
 
 #downloadBtn {
+  font-family: 'Bebas Neue';
+  font-weight: 300px;
   display: block !important;
   margin-bottom: 4px;
   margin-left: -1500px;
-  margin-right: -15px;
+  margin-right: -5px;
   text-align: right;
   font-size: 30px;
   opacity: 78% !important;
@@ -448,6 +454,7 @@ footer {
     0 0 19px rgb(237, 237, 237),
     0 0 40px rgb(233, 233, 233),
     0 0 60px rgb(200, 200, 200);
+    display: block !important;
   -webkit-animation: fadeIn 8.5s !important;
   -moz-animation: fadeIn 8.5s !important;
   -o-animation: fadeIn 8.5s !important;

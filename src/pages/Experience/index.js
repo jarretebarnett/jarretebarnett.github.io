@@ -33,8 +33,8 @@ function Experience() {
             <br />
             <div className="row">
                 <div className="col-3">
-                    <span id="downloadBtn" className="badge bg-black"><a className="nav-link" href={resume} rel="noreferrer" target="_blank">Download Résumé</a></span>
-                    <span id="downloadBtn" className="badge bg-black"><a className="nav-link" href={certs} rel="noreferrer" target="_blank">Download Certs</a></span>
+                    <span id="downloadBtn"><a className="nav-link" href={resume} rel="noreferrer" target="_blank">Download Résumé</a></span>
+                    <span id="downloadBtn"><a className="nav-link" href={certs} rel="noreferrer" target="_blank">Download Certs</a></span>
                 </div>
                 <div className="col-9">
                     <h1><span id="expWindow" className="badge bg-black">
