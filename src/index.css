@@ -106,22 +106,22 @@ h1.fade-one {
   -moz-animation: fadeIn 4.75s !important;
   -o-animation: fadeIn 4.75s !important;
   animation: fadeIn 4.75s !important;
-  font-size: 35px;
-  margin-top: 315px;
+  font-size: 32px;
+  margin-top: 300px;
 }
 h1.fade-two {
   -webkit-animation: fadeIn 5.75s !important;
   -moz-animation: fadeIn 5.75s !important;
   -o-animation: fadeIn 5.75s !important;
   animation: fadeIn 5.75s !important;
-  font-size: 35px;
+  font-size: 32px;
 }
 h1.fade-three {
   -webkit-animation: fadeIn 6.75s !important;
   -moz-animation: fadeIn 6.75s !important;
   -o-animation: fadeIn 6.75s !important;
   animation: fadeIn 6.75s !important;
-  font-size: 35px;
+  font-size: 32px;
 }
 
 p.statement {
