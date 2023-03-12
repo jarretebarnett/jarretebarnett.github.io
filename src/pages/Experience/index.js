@@ -37,10 +37,10 @@ function Experience() {
                     <span id="downloadBtn"><a className="nav-link" href={certs} rel="noreferrer" target="_blank">Download Certs</a></span>
                 </div>
                 <div className="col-9">
-                    <h1><span id="expWindow" className="badge bg-black">
+                    <h1><span id="theWindow" className="badge bg-black">
                         <div>
-                            <a id="coName" href="https://turnberrysolutions.com/" rel="noreferrer" target="_blank">Turnberry Solutions <img src={turnberrysolutions} style={{ maxWidth: 32 }} alt=""/></a>
-                            <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 39 }} alt=""/></p>
+                            <a id="coName" href="https://turnberrysolutions.com/" rel="noreferrer" target="_blank">Turnberry Solutions <img src={turnberrysolutions} style={{ maxWidth: 20 }} alt=""/></a>
+                            <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
                             <ul>
                                 <li id="posName">Software Engineer Associate I</li>
                                 <li id="expDate">May 2022 ⤬ March 2023</li>
@@ -54,7 +54,7 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
-                            <a id="coName" href="https://www.thecoderschool.com/" rel="noreferrer" target="_blank">The Coder School <img src={coderschool} style={{ maxWidth: 90 }} alt=""/></a>
+                            <a id="coName" href="https://www.thecoderschool.com/" rel="noreferrer" target="_blank">The Coder School <img src={coderschool} style={{ maxWidth: 44 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Instructional Coach</li>
                                 <li id="expDate">November 2021 ⤬ April 2022</li>
@@ -66,7 +66,7 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
-                            <a id="coName" href="https://jarretebarnett.raveis.com" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 70 }} alt=""/></a>
+                            <a id="coName" href="https://jarretebarnett.raveis.com" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 43 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Licensed Real Estate Sales Associate</li>
                                 <li id="expDate">February 2020 ⤬ Present</li>
@@ -78,7 +78,7 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
-                            <a id="coName" href="https://www.kw.com/" rel="noreferrer" target="_blank">Keller Williams Realty <img src={kellerwilliams} style={{ maxWidth: 48 }} alt=""/></a>
+                            <a id="coName" href="https://www.kw.com/" rel="noreferrer" target="_blank">Keller Williams Realty <img src={kellerwilliams} style={{ maxWidth: 27 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Licensed Real Estate Sales Associate</li>
                                 <li id="expDate">July 2019 ⤬ January 2020</li>

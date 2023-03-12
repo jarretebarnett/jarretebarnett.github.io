@@ -14,7 +14,7 @@ function Contact() {
             <br />
             <div className="page-title">Contact</div>
             <br />
-            <h1><span className="badge bg-black">
+            <h1><span className="badge bg-black" id="theWindow">
                 <div className="row">
                     <div id="colTitle" className="col-auto">
                         <p id="colHeader">Social Media</p>
@@ -55,7 +55,7 @@ function Contact() {
                         </div>
                         <br />
                         <div className="row">
-                            <a id="social-glow" href="mailto:jy.barnett.io@gmail.com"><p className="lean">e: jy.barnett.io<br/>@gmail.com</p></a>
+                            <a id="social-glow" href="mailto:jarretebarnett@gmail.com"><p className="lean">e: jarretebarnett<br/>@gmail.com</p></a>
                         </div>
                         <br />
                         <div className="row">

@@ -45,6 +45,7 @@ body {
   border-radius: 0px;
   color: white !important;
   text-decoration: none !important;
+  max-width: 90rem;
   /* -webkit-animation: fadeIn 6.25s !important;
   -moz-animation: fadeIn 6.25s !important;
   -o-animation: fadeIn 6.25s !important;
@@ -80,7 +81,7 @@ code {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgb(37, 37, 37);
+  background: rgb(200, 200, 200);
 }
 
 div.container {
@@ -105,30 +106,30 @@ h1.fade-one {
   -moz-animation: fadeIn 4.75s !important;
   -o-animation: fadeIn 4.75s !important;
   animation: fadeIn 4.75s !important;
-  font-size: 50px;
-  margin-top: 400px;
+  font-size: 35px;
+  margin-top: 315px;
 }
 h1.fade-two {
   -webkit-animation: fadeIn 5.75s !important;
   -moz-animation: fadeIn 5.75s !important;
   -o-animation: fadeIn 5.75s !important;
   animation: fadeIn 5.75s !important;
-  font-size: 50px;
+  font-size: 35px;
 }
 h1.fade-three {
   -webkit-animation: fadeIn 6.75s !important;
   -moz-animation: fadeIn 6.75s !important;
   -o-animation: fadeIn 6.75s !important;
   animation: fadeIn 6.75s !important;
-  font-size: 50px;
+  font-size: 35px;
 }
 
 p.statement {
   font-family: 'Bebas Neue';
-  font-size: 22px;
+  font-size: 16px;
   text-align: center;
-  margin-left: 65px;
-  margin-right: 65px;
+  margin-left: 75px;
+  margin-right: 75px;
   display: block !important;
   opacity: 78% !important;
   color: white;
@@ -328,7 +329,7 @@ a {
 }
 
 #colTitle {
-  width: 13rem;
+  max-width: 13rem;
   margin-top: 3.5%;
   margin-bottom: 2%;
 }
@@ -337,7 +338,7 @@ a {
   font-size: 36px;
 }
 
-#expWindow {
+#theWindow {
   overflow: auto;
   display: block !important;
   max-height: 40rem;
@@ -350,7 +351,7 @@ a {
 }
 
 p.clientName {
-  font-size: 36px;
+  font-size: 20px;
   margin-left: 16px;
   margin-bottom: 3px;
 }
@@ -365,24 +366,24 @@ p.clientName:hover {
 }
 
 p.proficiencies {
-  font-size: 45px;
+  font-size: 22px;
   text-align: right;
   margin-left: 16px;
   margin-bottom: 3px;
 }
 
 #posName {
-  font-size: 30px;
+  font-size: 17px;
   margin-bottom: 3px;
 }
 
 #expDate {
-  font-size: 27px;
+  font-size: 16px;
   margin-bottom: 3px;
 }
 
 #coName {
-  font-size: 45px;
+  font-size: 23px;
   margin-bottom: 3px;
 }
 
@@ -396,7 +397,7 @@ p.proficiencies {
 }
 
 #desc {
-  font-size: 24px;
+  font-size: 17px;
   display: block !important;
   margin-top: 6px;
   margin-bottom: 6px;
@@ -410,9 +411,9 @@ p.proficiencies {
   display: block !important;
   margin-bottom: 4px;
   margin-left: -1500px;
-  margin-right: -5px;
+  margin-right: -16px;
   text-align: right;
-  font-size: 30px;
+  font-size: 16px;
   opacity: 78% !important;
   /* -webkit-animation: fadeIn 8.5s !important;
   -moz-animation: fadeIn 8.5s !important;
