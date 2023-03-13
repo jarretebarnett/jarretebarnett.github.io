@@ -20,31 +20,31 @@ function Contact() {
                         <p id="colHeader">Social Media</p>
                         <br />
                         <div className="row">
-                            <a id="social-glow" className="lean-right" href="https://www.facebook.com/jarrete.y.barnett/" rel="noreferrer" target="_blank">Facebook <img src={facebook} style={{ maxWidth: 25 }} alt=""/></a>
+                            <a id="social-glow" className="lean-right" href="https://www.facebook.com/jarrete.y.barnett/" rel="noreferrer" target="_blank">Facebook <img src={facebook} style={{ maxWidth: 19 }} alt=""/></a>
                         </div>
                         <br />
                         <div className="row">
-                            <a id="social-glow" className="lean-right" href="https://www.github.com/jarretebarnett/" rel="noreferrer" target="_blank">GitHub <img src={githublogo} style={{ maxWidth: 24 }} alt=""/></a>
+                            <a id="social-glow" className="lean-right" href="https://www.github.com/jarretebarnett/" rel="noreferrer" target="_blank">GitHub <img src={githublogo} style={{ maxWidth: 18 }} alt=""/></a>
                         </div>
                         <br />
                         <div className="row">
-                            <a id="social-glow" className="lean-right" href="https://www.instagram.com/jarretebarnett/" rel="noreferrer" target="_blank">Instagram <img src={instagram} style={{ maxWidth: 23 }} alt=""/></a>
+                            <a id="social-glow" className="lean-right" href="https://www.instagram.com/jarretebarnett/" rel="noreferrer" target="_blank">Instagram <img src={instagram} style={{ maxWidth: 18 }} alt=""/></a>
                         </div>
                         <br />
                         <div className="row">
-                            <a id="social-glow" className="lean-right" href="https://www.linkedin.com/in/jarretebarnett/" rel="noreferrer" target="_blank">LinkedIn <img src={linkedin} style={{ maxWidth: 26 }} alt=""/></a>
+                            <a id="social-glow" className="lean-right" href="https://www.linkedin.com/in/jarretebarnett/" rel="noreferrer" target="_blank">LinkedIn <img src={linkedin} style={{ maxWidth: 20 }} alt=""/></a>
                         </div>
                         <br />
                         <div className="row">
-                            <a id="social-glow" className="lean-right" href="https://www.twitch.tv/jaewhybe" rel="noreferrer" target="_blank">Twitch <img src={twitch} style={{ maxWidth: 23 }} alt=""/></a>
+                            <a id="social-glow" className="lean-right" href="https://www.twitch.tv/jaewhybe" rel="noreferrer" target="_blank">Twitch <img src={twitch} style={{ maxWidth: 18 }} alt=""/></a>
                         </div>
                         <br />
                         <div className="row">
-                            <a id="social-glow" className="lean-right" href="https://twitter.com/jarretedotio" rel="noreferrer" target="_blank">Twitter <img src={twitter} style={{ maxWidth: 25 }} alt=""/></a>
+                            <a id="social-glow" className="lean-right" href="https://twitter.com/jarretedotio" rel="noreferrer" target="_blank">Twitter <img src={twitter} style={{ maxWidth: 19 }} alt=""/></a>
                         </div>
                         <br />
                         <div className="row">
-                            <a id="social-glow" className="lean-right" href="https://www.youtube.com/channel/UCrvMqVxDXQxNlDNoavSRh5g" rel="noreferrer" target="_blank">YouTube <img src={youtube} style={{ maxWidth: 25 }} alt=""/></a>
+                            <a id="social-glow" className="lean-right" href="https://www.youtube.com/channel/UCrvMqVxDXQxNlDNoavSRh5g" rel="noreferrer" target="_blank">YouTube <img src={youtube} style={{ maxWidth: 20 }} alt=""/></a>
                         </div>
                     </div>
                     <div id="colTitle" className="col-auto">

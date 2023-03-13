@@ -75,7 +75,7 @@ code {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgb(40, 40, 40);
+  background: rgb(100, 100, 100);
   /* width: 10px; */
   border-radius: 10px;
 }
@@ -204,8 +204,8 @@ p.statement {
 
 .lean-right {
   text-align: right;
-  font-size: 27px;
-  margin-bottom: 36px;
+  font-size: 20px;
+  margin-bottom: 45px;
 }
 
 .lean {
