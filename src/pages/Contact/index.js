@@ -9,7 +9,7 @@ import twitch from "../../assets/img/twitch.png";
 
 function Contact() {
     return (
-        <div className="container" id="fadeContacts">
+        <div className="container" id="fadeEffect">
             <br />
             <br />
             <div className="page-title">Contact</div>

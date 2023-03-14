@@ -26,7 +26,7 @@ import mongologo from "../../assets/img/mongodb.png";
 
 function Experience() {
     return (
-        <div className="container" id="fadeContacts">
+        <div className="container" id="fadeEffect">
             <br />
             <br />
             <div className="page-title">Experience</div>
@@ -35,6 +35,7 @@ function Experience() {
                 <div className="col-3">
                     <span id="downloadBtn"><a className="nav-link" href={resume} rel="noreferrer" target="_blank">Download Résumé</a></span>
                     <span id="downloadBtn"><a className="nav-link" href={certs} rel="noreferrer" target="_blank">Download Certs</a></span>
+                    <span id="downloadBtn"><a className="nav-link" href="/#/references">View References</a></span>
                 </div>
                 <div className="col-9">
                     <h1><span id="theWindow" className="badge bg-black">
