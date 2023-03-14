@@ -102,7 +102,7 @@ function References() {
                 <div className="row">
                     <div id="referCol" className="col-auto">
                         <p id="coName">Vaishali Shah</p>
-                        <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">The Coder School </a><img src={coderschool} style={{ maxWidth: 44 }} alt=""/></p>
+                        <p className="clientName"><a href="https://www.thecoderschool.com/" rel="noreferrer" target="_blank">The Coder School </a><img src={coderschool} style={{ maxWidth: 44 }} alt=""/></p>
                         <p id="jobTitle">Owner, Manager</p>
                         <ul>
                             <a id="social-glow" href="tel:18604706276"><li id="desc">m: 1-860-470-6276</li></a>
