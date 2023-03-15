@@ -72,6 +72,15 @@ function References() {
                 </div>
                 <div className="row">
                     <div id="referCol" className="col-auto">
+                        <p id="coName">Steve Reddy</p>
+                        <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
+                        <p id="jobTitle">Lead Technical Program Manager <br/>Data and Services (DAS)</p>
+                        <ul>
+                            <a id="social-glow" href="tel:16367224028"><li id="desc">0: 1-636-722-6820</li></a>
+                            <a id="social-glow" href="mailto:steve.reddy@mastercard.com"><li id="desc">w: steve.reddy<br/>@mastercard.com</li></a>
+                        </ul>
+                    </div>
+                    <div id="referCol" className="col-auto">
                         <p id="coName">Vinod Yenduri</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
                         <p id="jobTitle">Principal Software Engineer <br/>Data and Services (DAS)</p>
@@ -89,6 +98,17 @@ function References() {
                             <a id="social-glow" href="mailto:greg.hance@mastercard.com"><li id="desc">w: greg.hance<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
+                </div>
+                <div className="row">
+                    <div id="referCol" className="col-auto">
+                        <p id="coName">Sravani Mangipudy</p>
+                        <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
+                        <p id="jobTitle">Lead Software Engineer <br/>Data and Services (DAS)</p>
+                        <ul>
+                            <a id="social-glow" href="tel:16367226243"><li id="desc">o: 1-636-722-6243</li></a>
+                            <a id="social-glow" href="mailto:sravani.mangipudy@mastercard.com"><li id="desc">w: sravani.mangipudy<br/>@mastercard.com</li></a>
+                        </ul>
+                    </div>
                     <div id="referCol" className="col-auto">
                         <p id="coName">Sathish Kumar <br/>Parthasarathy</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
@@ -98,8 +118,6 @@ function References() {
                             <a id="social-glow" href="mailto:sathishkumar.parthasarathy@mastercard.com"><li id="desc">w: sathishkumar.parthasarathy<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
-                </div>
-                <div className="row">
                     <div id="referCol" className="col-auto">
                         <p id="coName">Vaishali Shah</p>
                         <p className="clientName"><a href="https://www.thecoderschool.com/" rel="noreferrer" target="_blank">The Coder School </a><img src={coderschool} style={{ maxWidth: 44 }} alt=""/></p>

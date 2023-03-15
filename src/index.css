@@ -335,7 +335,8 @@ a {
 }
 
 #referCol {
-  max-width: 14rem;
+  max-width: 16rem;
+  display: block !important;
   margin-top: 3.5%;
   margin-bottom: 2%;
 }
@@ -451,7 +452,7 @@ p.proficiencies {
   white-space: normal;
 }
 
-footer {
+/* footer {
   text-align: center;
   font-family: 'Bebas Neue';
   font-size: 13px;
@@ -472,7 +473,7 @@ footer {
   -moz-animation: fadeIn 8.5s !important;
   -o-animation: fadeIn 8.5s !important;
   animation: fadeIn 8.5s !important;
-}
+} */
   
 abbr[title] {
   border-bottom: none;
