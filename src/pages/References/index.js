@@ -115,6 +115,7 @@ function References() {
                         <p id="jobTitle">Senior Software Engineer <br/>Data and Services (DAS)</p>
                         <ul>
                             <a id="social-glow" href="tel:16367224028"><li id="desc">0: 1-636-722-4028</li></a>
+                            <a id="social-glow" href="mailto:p.sathish.cs@gmail.com"><li id="desc">w: p.sathish.cs<br/>@gmail.com</li></a>
                             <a id="social-glow" href="mailto:sathishkumar.parthasarathy@mastercard.com"><li id="desc">w: sathishkumar.parthasarathy<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
