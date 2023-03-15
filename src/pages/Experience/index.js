@@ -55,6 +55,18 @@ function Experience() {
                             </ul>
                         </div>
                         <div>
+                            <a id="coName" href="https://www.raveis.com" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 43 }} alt=""/></a>
+                            <ul>
+                                <li id="posName">Licensed Real Estate Sales Associate</li>
+                                <li id="expDate">February 2020 ⤬ December 2022</li>
+                                <ul>
+                                    <li id="desc">⦿ Manage a personal CRM database of customers and clients.</li>
+                                    <li id="desc">⦿ Marketing for social media-centric engagement, reaching hundreds of active users monthly.</li>
+                                    <li id="desc">⦿ Prospecting inventory for seller interest, market data, and inquiring customers planning to buy or rent.</li>
+                                </ul>
+                            </ul>
+                        </div>
+                        <div>
                             <a id="coName" href="https://www.thecoderschool.com/" rel="noreferrer" target="_blank">The Coder School <img src={coderschool} style={{ maxWidth: 44 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Instructional Coach</li>
@@ -63,18 +75,6 @@ function Experience() {
                                     <li id="desc">⦿ Provide support to students who are learning new software frameworks and languages.</li>
                                     <li id="desc">⦿ Relay notes of progress to both parents and internal administration.</li>
                                     <li id="desc">⦿ Refine students’ skills in languages such as Python, Java, JavaScript, HTML, CSS, etc.</li>
-                                </ul>
-                            </ul>
-                        </div>
-                        <div>
-                            <a id="coName" href="https://jarretebarnett.raveis.com" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 43 }} alt=""/></a>
-                            <ul>
-                                <li id="posName">Licensed Real Estate Sales Associate</li>
-                                <li id="expDate">February 2020 ⤬ Present</li>
-                                <ul>
-                                    <li id="desc">⦿ Manage a personal CRM database of customers and clients.</li>
-                                    <li id="desc">⦿ Marketing for social media-centric engagement, reaching hundreds of active users monthly.</li>
-                                    <li id="desc">⦿ Prospecting inventory for seller interest, market data, and inquiring customers planning to buy or rent.</li>
                                 </ul>
                             </ul>
                         </div>
