@@ -8,6 +8,7 @@ function Welcome() {
             <h1 className="fade-three"><span className="badge bg-black" id="welcomeConstraint">Entrepreneur</span></h1>
             <br />
             <p className="statement">An exploratory documentation of relative training and experience from exposure working within the tech industry. Choose from the menu to discover an overview and insight of specific projects, online repositories, and social media access.</p>
+            <footer>© 2023</footer>
         </div>
     );
 }

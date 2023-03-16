@@ -39,8 +39,6 @@ function References() {
                             <a id="social-glow" href="mailto:monica.gagne@turnberrysolutions.com"><li id="desc">w: monica.gagne<br/>@turnberrysolutions.com</li></a>
                         </ul>
                     </div>
-                </div>
-                <div className="row">
                     <div id="referCol" className="col-auto">
                         <p id="coName">Sathish Kumar <br/>Shivashanmugamoorthy</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
@@ -52,6 +50,8 @@ function References() {
                             <a id="social-glow" href="mailto:sathish.kumar3@mastercard.com"><li id="desc">w: sathish.kumar3<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
+                </div>
+                <div className="row">
                     <div id="referCol" className="col-auto">
                         <p id="coName">Ajay Upadhyay</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
@@ -71,8 +71,6 @@ function References() {
                             <a id="social-glow" href="mailto:james.dunlap@mastercard.com"><li id="desc">w: james.dunlap<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
-                </div>
-                <div className="row">
                     <div id="referCol" className="col-auto">
                         <p id="coName">Steve Reddy</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
@@ -91,6 +89,8 @@ function References() {
                             <a id="social-glow" href="mailto:vinod.yenduri@mastercard.com"><li id="desc">w: vinod.yenduri<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
+                </div>
+                <div className="row">
                     <div id="referCol" className="col-auto">
                         <p id="coName">Greg Hance</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
@@ -100,8 +100,6 @@ function References() {
                             <a id="social-glow" href="mailto:greg.hance@mastercard.com"><li id="desc">w: greg.hance<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
-                </div>
-                <div className="row">
                     <div id="referCol" className="col-auto">
                         <p id="coName">Sravani Mangipudy</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
@@ -131,6 +129,7 @@ function References() {
                         </ul>
                     </div>
                 </div>
+                <div id="toeTag">© 2023</div>
             </span></h1>
         </div>
     );

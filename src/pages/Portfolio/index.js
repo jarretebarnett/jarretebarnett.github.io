@@ -69,6 +69,7 @@ function Portfolio() {
                     </a>
                 </div>
             </span>
+            <footer>© 2023</footer>
         </div>
     );
 }

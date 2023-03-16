@@ -335,7 +335,7 @@ a {
 }
 
 #referCol {
-  max-width: 16rem;
+  max-width: 14rem;
   display: block !important;
   margin-top: 3.5%;
   margin-bottom: 2%;
@@ -452,7 +452,7 @@ p.proficiencies {
   white-space: normal;
 }
 
-/* footer {
+footer {
   text-align: center;
   font-family: 'Bebas Neue';
   font-size: 13px;
@@ -469,11 +469,34 @@ p.proficiencies {
     0 0 40px rgb(233, 233, 233),
     0 0 60px rgb(200, 200, 200);
     display: block !important;
-  -webkit-animation: fadeIn 8.5s !important;
+  /* -webkit-animation: fadeIn 8.5s !important;
   -moz-animation: fadeIn 8.5s !important;
   -o-animation: fadeIn 8.5s !important;
-  animation: fadeIn 8.5s !important;
-} */
+  animation: fadeIn 8.5s !important; */
+}
+
+#toeTag {
+  text-align: right;
+  font-family: 'Bebas Neue';
+  font-size: 13px;
+  color: rgb(255, 255, 255);
+  margin-top: 70px;
+  /* position: fixed;
+  left: 0 ; right: 0; bottom: 0;  */
+  height:[footer-height];
+  padding-bottom: 8px;
+  text-shadow:
+    0 0 4px rgb(255, 255, 255),
+    0 0 11px rgb(242, 242, 242),
+    0 0 19px rgb(237, 237, 237),
+    0 0 40px rgb(233, 233, 233),
+    0 0 60px rgb(200, 200, 200);
+    display: block !important;
+  /* -webkit-animation: fadeIn 8.5s !important;
+  -moz-animation: fadeIn 8.5s !important;
+  -o-animation: fadeIn 8.5s !important;
+  animation: fadeIn 8.5s !important; */
+}
   
 abbr[title] {
   border-bottom: none;
