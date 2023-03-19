@@ -58,7 +58,7 @@ function Experience() {
                             <a id="coName" href="https://www.raveis.com" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 43 }} alt=""/></a>
                             <ul>
                                 <li id="posName">Licensed Real Estate Sales Associate</li>
-                                <li id="expDate">February 2020 ⤬ December 2022</li>
+                                <li id="expDate">February 2020 ⤬ Present</li>
                                 <ul>
                                     <li id="desc">⦿ Manage a personal CRM database of customers and clients.</li>
                                     <li id="desc">⦿ Marketing for social media-centric engagement, reaching hundreds of active users monthly.</li>
