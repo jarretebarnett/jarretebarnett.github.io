@@ -120,6 +120,17 @@ function References() {
                         </ul>
                     </div>
                     <div id="referCol" className="col-auto">
+                        <p id="coName">Venkateswara Rao <br />Muppalla</p>
+                        <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
+                        <p id="jobTitle">Senior Software Engineer <br/>Data and Services (DAS)</p>
+                        <ul>
+                            <a id="social-glow" href="tel:16367226171"><li id="desc">o: 1-636-722-6171</li></a>
+                            <a id="social-glow" href="mailto:venkateswararao.muppalla@mastercard.com"><li id="desc">w: venkateswararao.muppalla<br/>@mastercard.com</li></a>
+                        </ul>
+                    </div>
+                </div>
+                <div className="row">
+                    <div id="referCol" className="col-auto">
                         <p id="coName">Vaishali Shah</p>
                         <p className="clientName"><a href="https://www.thecoderschool.com/" rel="noreferrer" target="_blank">The Coder School </a><img src={coderschool} style={{ maxWidth: 44 }} alt=""/></p>
                         <p id="jobTitle">Owner, Manager</p>
