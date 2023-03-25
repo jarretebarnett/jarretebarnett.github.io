@@ -7,7 +7,7 @@ function Welcome() {
             <h1 className="fade-two"><span className="badge bg-black" id="welcomeConstraint">Licensed Real Estate Sales Associate</span></h1>
             <h1 className="fade-three"><span className="badge bg-black" id="welcomeConstraint">Entrepreneur</span></h1>
             <br />
-            <p className="statement">An exploratory documentation of relative training and experience from exposure working within the tech industry. Choose from the menu to discover an overview and insight of specific projects, online repositories, and social media access.</p>
+            <p className="statement">An exploratory page documenting relevant experience and training from exposure working within the tech industry. Choose from an array of options to discover an overview of personal projects, remote repositories, and social media presence.</p>
             <footer>© 2023</footer>
         </div>
     );
