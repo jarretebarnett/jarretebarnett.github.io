@@ -342,6 +342,13 @@ a {
   margin-bottom: 2%;
 }
 
+#referColWide {
+  width: 14rem;
+  display: block !important;
+  margin-top: 3.5%;
+  margin-bottom: 2%;
+}
+
 #colHeader {
   font-size: 36px;
 }

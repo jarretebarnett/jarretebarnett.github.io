@@ -22,6 +22,15 @@ function References() {
                         </ul>
                     </div>
                     <div id="referCol" className="col-auto">
+                        <p id="coName">Andrew Reiter</p>
+                        <p className="clientName"><a href="https://turnberrysolutions.com/" rel="noreferrer" target="_blank">Turnberry Solutions </a><img src={turnberrysolutions} style={{ maxWidth: 18 }} alt=""/></p>
+                        <p id="jobTitle">Client Engagement Director</p>
+                        <ul>
+                            <a id="social-glow" href="tel:13192906537"><li id="desc">m: 1-319-290-6537</li></a>
+                            <a id="social-glow" href="mailto:andrew.reiter@turnberrysolutions.com"><li id="desc">w: andrew.reiter<br/>@turnberrysolutions.com</li></a>
+                        </ul>
+                    </div>
+                    <div id="referCol" className="col-auto">
                         <p id="coName">Jack Kremer</p>
                         <p className="clientName"><a href="https://turnberrysolutions.com/" rel="noreferrer" target="_blank">Turnberry Solutions </a><img src={turnberrysolutions} style={{ maxWidth: 18 }} alt=""/></p>
                         <p id="jobTitle">Crew Manager</p>
@@ -39,6 +48,8 @@ function References() {
                             <a id="social-glow" href="mailto:monica.gagne@turnberrysolutions.com"><li id="desc">w: monica.gagne<br/>@turnberrysolutions.com</li></a>
                         </ul>
                     </div>
+                </div>
+                <div className="row">
                     <div id="referCol" className="col-auto">
                         <p id="coName">Sathish Kumar <br/>Shivashanmugamoorthy</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
@@ -50,8 +61,6 @@ function References() {
                             <a id="social-glow" href="mailto:sathish.kumar3@mastercard.com"><li id="desc">w: sathish.kumar3<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
-                </div>
-                <div className="row">
                     <div id="referCol" className="col-auto">
                         <p id="coName">Ajay Upadhyay</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
@@ -80,6 +89,8 @@ function References() {
                             <a id="social-glow" href="mailto:steve.reddy@mastercard.com"><li id="desc">w: steve.reddy<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
+                </div>
+                <div className="row">
                     <div id="referCol" className="col-auto">
                         <p id="coName">Vinod Yenduri</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
@@ -89,9 +100,7 @@ function References() {
                             <a id="social-glow" href="mailto:vinod.yenduri@mastercard.com"><li id="desc">w: vinod.yenduri<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
-                </div>
-                <div className="row">
-                    <div id="referCol" className="col-auto">
+                    <div id="referColWide" className="col-auto">
                         <p id="coName">Greg Hance</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
                         <p id="jobTitle">Lead Software Engineer <br/>Data and Services (DAS)</p>
@@ -119,6 +128,8 @@ function References() {
                             <a id="social-glow" href="mailto:sathishkumar.parthasarathy@mastercard.com"><li id="desc">w: sathishkumar.parthasarathy<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
+                </div>
+                <div className="row">
                     <div id="referCol" className="col-auto">
                         <p id="coName">Venkateswara Rao <br />Muppalla</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
@@ -128,8 +139,6 @@ function References() {
                             <a id="social-glow" href="mailto:venkateswararao.muppalla@mastercard.com"><li id="desc">w: venkateswararao.muppalla<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
-                </div>
-                <div className="row">
                     <div id="referCol" className="col-auto">
                         <p id="coName">Vaishali Shah</p>
                         <p className="clientName"><a href="https://www.thecoderschool.com/" rel="noreferrer" target="_blank">The Coder School </a><img src={coderschool} style={{ maxWidth: 44 }} alt=""/></p>
