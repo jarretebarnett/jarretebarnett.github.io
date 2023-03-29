@@ -125,7 +125,7 @@ function References() {
                         <ul>
                             <a id="social-glow" href="tel:16367224028"><li id="desc">0: 1-636-722-4028</li></a>
                             <a id="social-glow" href="mailto:p.sathish.cs@gmail.com"><li id="desc">e: p.sathish.cs<br/>@gmail.com</li></a>
-                            <a id="social-glow" href="mailto:sathishkumar.parthasarathy@mastercard.com"><li id="desc">w: sathishkumar.parthasarathy<br/>@mastercard.com</li></a>
+                            <a id="social-glow" href="mailto:sathishkumar.parthasarathy@mastercard.com"><li id="desc">w: sathishkumar<br />.parthasarathy<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
                 </div>
