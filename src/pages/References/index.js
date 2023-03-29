@@ -100,7 +100,7 @@ function References() {
                             <a id="social-glow" href="mailto:vinod.yenduri@mastercard.com"><li id="desc">w: vinod.yenduri<br/>@mastercard.com</li></a>
                         </ul>
                     </div>
-                    <div id="referColWide" className="col-auto">
+                    <div id="referCol" className="col-auto">
                         <p id="coName">Greg Hance</p>
                         <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
                         <p id="jobTitle">Lead Software Engineer <br/>Data and Services (DAS)</p>
