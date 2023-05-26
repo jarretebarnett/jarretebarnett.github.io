@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7e689a4.css",
-    "main.js": "/static/js/main.57d07c85.js",
+    "main.css": "/static/css/main.206a889a.css",
+    "main.js": "/static/js/main.c2d24081.js",
     "static/js/787.b9ec5bb0.chunk.js": "/static/js/787.b9ec5bb0.chunk.js",
     "static/media/tunnel.gif": "/static/media/tunnel.3239baf4f321ffeef82e.gif",
     "static/media/Certs.pdf": "/static/media/Certs.c83bc4c47a6f4c2f1e4d.pdf",
@@ -21,7 +21,9 @@
     "static/media/williamraveis.png": "/static/media/williamraveis.027c7b992acd66083d48.png",
     "static/media/mastercard.png": "/static/media/mastercard.e7812e90c8efc3bfd9e9.png",
     "static/media/python.png": "/static/media/python.472b811522a1f6634e8d.png",
+    "static/media/awsbadge.png": "/static/media/awsbadge.8261bd678677285dea4b.png",
     "static/media/css.png": "/static/media/css.d5fd270fb5f9d80802a6.png",
+    "static/media/uconnbootcamp.png": "/static/media/uconnbootcamp.4cdb2202141ba859cbbc.png",
     "static/media/html.png": "/static/media/html.45312bc690f3b287fb5a.png",
     "static/media/react.png": "/static/media/react.1f70117745f8929a6ebd.png",
     "static/media/facebook.png": "/static/media/facebook.1975b265c488bf4ba33c.png",
@@ -31,12 +33,12 @@
     "static/media/nodemon.png": "/static/media/nodemon.949ffcf702eb070391a6.png",
     "static/media/gitlogo.png": "/static/media/gitlogo.cf7e8da5e56f0b73b4fc.png",
     "index.html": "/index.html",
-    "main.e7e689a4.css.map": "/static/css/main.e7e689a4.css.map",
-    "main.57d07c85.js.map": "/static/js/main.57d07c85.js.map",
+    "main.206a889a.css.map": "/static/css/main.206a889a.css.map",
+    "main.c2d24081.js.map": "/static/js/main.c2d24081.js.map",
     "787.b9ec5bb0.chunk.js.map": "/static/js/787.b9ec5bb0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7e689a4.css",
-    "static/js/main.57d07c85.js"
+    "static/css/main.206a889a.css",
+    "static/js/main.c2d24081.js"
   ]
 }
