@@ -358,8 +358,19 @@ a {
   animation: fadeIn 8.5s !important; */
 }
 
+p.clientSection {
+  font-size: 17px;
+  font-style: italic;
+  margin-left: 16px;
+  margin-bottom: -9px;
+}
+
+.clientsDiv {
+  margin: 15px;
+}
+
 p.clientName {
-  font-size: 20px;
+  font-size: 19px;
   margin-left: 16px;
   margin-bottom: 3px;
 }
@@ -407,6 +418,11 @@ p.proficiencies:hover {
 #expDate {
   font-size: 16px;
   margin-bottom: 3px;
+}
+
+#expDateii {
+  font-size: 16px;
+  margin-bottom: -9px;
 }
 
 #coName {

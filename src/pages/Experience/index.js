@@ -43,18 +43,25 @@ function Experience() {
                     <h1><span id="theWindow" className="badge bg-black">
                         <div>
                             <a id="coName" href="https://turnberrysolutions.com/" rel="noreferrer" target="_blank">Turnberry Solutions <img src={turnberrysolutions} style={{ maxWidth: 20 }} alt=""/></a>
-                            <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
                             <ul>
-                                <li id="posName">Software Engineer Associate I</li>
-                                <li id="expDate">May 2022 ⤬ March 2023</li>
-                                <ul>
-                                    <li id="desc">⦿ Team is tasked with the responsibility of developing and refining Pay with Rewards features which offers users redemption rewards for eligible purchases.</li>
-                                    <li id="desc">⦿ Make daily collaborative effort with product managers to designate top priority stories that can be managed and completed within current or upcoming sprints and iterations.</li>
-                                    <li id="desc">⦿ Manage company repositories to modify applications and files as needed in order to optimize configuration and functionality, as well as eliminate any conflicting or obsolete code.</li>
-                                    <li id="desc">⦿ Continual maintenance and validation of code changes and database configurations with the primary purpose of refining and securing REST APIs which handle critical customer data.</li>
-                                    <li id="desc">⦿ Periodically facilitated scrum sessions to discuss best practices with team members when necessary, and committed to regular sprint elaborations to exercise due diligence on recently created or backlogged design stories.</li>
-                                </ul>
+                                <li id="posName">Associate Software Engineer</li>
+                                <li id="expDateii">May 2022 ⤬ Present</li>
                             </ul>
+                            <p className="clientSection">Clients ࿒</p>
+                            <div className="clientsDiv">
+                                <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
+                                <ul>
+                                    <li id="posName">Contingent Worker</li>
+                                    <li id="expDate">May 2022 ⤬ March 2023</li>
+                                    <ul>
+                                        <li id="desc">⦿ Team is tasked with the responsibility of developing and refining Pay with Rewards features which offers users redemption rewards for eligible purchases.</li>
+                                        <li id="desc">⦿ Make daily collaborative effort with product managers to designate top priority stories that can be managed and completed within current or upcoming sprints and iterations.</li>
+                                        <li id="desc">⦿ Manage company repositories to modify applications and files as needed in order to optimize configuration and functionality, as well as eliminate any conflicting or obsolete code.</li>
+                                        <li id="desc">⦿ Continual maintenance and validation of code changes and database configurations with the primary purpose of refining and securing REST APIs which handle critical customer data.</li>
+                                        <li id="desc">⦿ Periodically facilitated scrum sessions to discuss best practices with team members when necessary, and committed to regular sprint elaborations to exercise due diligence on recently created or backlogged design stories.</li>
+                                    </ul>
+                                </ul>
+                            </div>
                         </div>
                         <div>
                             <a id="coName" href="https://www.raveis.com" rel="noreferrer" target="_blank">William Raveis Real Estate <img src={williamraveis} style={{ maxWidth: 43 }} alt=""/></a>
