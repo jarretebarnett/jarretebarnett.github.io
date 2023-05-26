@@ -23,6 +23,8 @@ import dotenv from "../../assets/img/dotenv.png";
 import socketio from "../../assets/img/socketio.png";
 import sql from "../../assets/img/sql.png";
 import mongologo from "../../assets/img/mongodb.png";
+import uconnbootcamp from "../../assets/img/uconnbootcamp.png";
+import awsbadge from "../../assets/img/awsbadge.png";
 
 function Experience() {
     return (
@@ -113,6 +115,15 @@ function Experience() {
                                     <img src={socketio} style={{ maxWidth: 40 }} alt=""></img>
                                     <img src={sql} style={{ maxWidth: 35 }} alt=""></img>
                                     <img src={mongologo} style={{ maxWidth: 22 }} alt=""></img>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <p className="proficiencies">Certifications</p>
+                            <div>
+                                <div id="profs" className="row-cols-auto">
+                                    <img src={uconnbootcamp} className="imgSpace" style={{ maxWidth: 120 }} alt=""></img>
+                                    <img src={awsbadge} className="imgSpace" style={{ maxWidth: 120 }} alt=""></img>
                                 </div>
                             </div>
                         </div>
