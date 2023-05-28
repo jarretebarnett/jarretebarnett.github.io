@@ -47,7 +47,7 @@ function Experience() {
                                 <li id="posName">Associate Software Engineer</li>
                                 <li id="expDateii">May 2022 ⤬ Present</li>
                             </ul>
-                            <p className="clientSection">Clients ࿒</p>
+                            <p className="clientSection">Clients࿒</p>
                             <div className="clientsDiv">
                                 <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
                                 <ul>
