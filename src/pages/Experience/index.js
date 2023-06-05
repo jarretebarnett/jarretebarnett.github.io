@@ -44,14 +44,14 @@ function Experience() {
                         <div>
                             <a id="coName" href="https://turnberrysolutions.com/" rel="noreferrer" target="_blank">Turnberry Solutions <img src={turnberrysolutions} style={{ maxWidth: 20 }} alt=""/></a>
                             <ul>
-                                <li id="posName">Associate Software Engineer</li>
+                                <li id="posName">Associate Software Engineer, AWS Cloud Practitioner</li>
                                 <li id="expDateii">May 2022 ⤬ Present</li>
                             </ul>
-                            <p className="clientSection">Clients࿒</p>
+                            <p className="clientSection">Clients ࿒</p>
                             <div className="clientsDiv">
                                 <p className="clientName"><a href="https://www.mastercard.us/en-us/vision/who-we-are/innovation.html" rel="noreferrer" target="_blank">Mastercard </a><img src={mastercard} style={{ maxWidth: 20 }} alt=""/></p>
                                 <ul>
-                                    <li id="posName">Contingent Worker</li>
+                                    <li id="posName">Software Engineer I</li>
                                     <li id="expDate">May 2022 ⤬ March 2023</li>
                                     <ul>
                                         <li id="desc">⦿ Team is tasked with the responsibility of developing and refining Pay with Rewards features which offers users redemption rewards for eligible purchases.</li>
@@ -102,6 +102,15 @@ function Experience() {
                         <br />
                         <br />
                         <div>
+                            <p className="proficiencies">Certifications</p>
+                            <div>
+                                <div id="profs" className="row-cols-auto">
+                                    <img src={uconnbootcamp} className="imgSpace" style={{ maxWidth: 120 }} alt=""></img>
+                                    <img src={awsbadge} className="imgSpace" style={{ maxWidth: 120 }} alt=""></img>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
                             <p className="proficiencies">Proficiencies</p>
                             <div>
                                 <div id="profs" className="row-cols-auto">
@@ -122,15 +131,6 @@ function Experience() {
                                     <img src={socketio} style={{ maxWidth: 40 }} alt=""></img>
                                     <img src={sql} style={{ maxWidth: 35 }} alt=""></img>
                                     <img src={mongologo} style={{ maxWidth: 22 }} alt=""></img>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <p className="proficiencies">Certifications</p>
-                            <div>
-                                <div id="profs" className="row-cols-auto">
-                                    <img src={uconnbootcamp} className="imgSpace" style={{ maxWidth: 120 }} alt=""></img>
-                                    <img src={awsbadge} className="imgSpace" style={{ maxWidth: 120 }} alt=""></img>
                                 </div>
                             </div>
                         </div>
