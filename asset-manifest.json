@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.91706419.css",
-    "main.js": "/static/js/main.e6c4f5a0.js",
+    "main.css": "/static/css/main.15db3153.css",
+    "main.js": "/static/js/main.2d32ca69.js",
     "static/js/787.b9ec5bb0.chunk.js": "/static/js/787.b9ec5bb0.chunk.js",
     "static/media/tunnel.gif": "/static/media/tunnel.3239baf4f321ffeef82e.gif",
     "static/media/googlebooks.png": "/static/media/googlebooks.129f5d72716e755a32e5.png",
@@ -11,6 +11,7 @@
     "static/media/weatherdash.png": "/static/media/weatherdash.53a983df68a4cb169b4a.png",
     "static/media/lyrichord.png": "/static/media/lyrichord.7af18551818377c7be12.png",
     "static/media/node.png": "/static/media/node.a2f9749b8a634efd6c75.png",
+    "static/media/awspartnerbadge.png": "/static/media/awspartnerbadge.ae516b02268951894229.png",
     "static/media/ResumeDoc.pdf": "/static/media/ResumeDoc.553f392ee2f1dbb0ede2.pdf",
     "static/media/kellerwilliams.png": "/static/media/kellerwilliams.7b6bbc3cf057f4989d6c.png",
     "static/media/mongodb.png": "/static/media/mongodb.ff5815cee566fe9d3350.png",
@@ -33,12 +34,12 @@
     "static/media/nodemon.png": "/static/media/nodemon.949ffcf702eb070391a6.png",
     "static/media/gitlogo.png": "/static/media/gitlogo.cf7e8da5e56f0b73b4fc.png",
     "index.html": "/index.html",
-    "main.91706419.css.map": "/static/css/main.91706419.css.map",
-    "main.e6c4f5a0.js.map": "/static/js/main.e6c4f5a0.js.map",
+    "main.15db3153.css.map": "/static/css/main.15db3153.css.map",
+    "main.2d32ca69.js.map": "/static/js/main.2d32ca69.js.map",
     "787.b9ec5bb0.chunk.js.map": "/static/js/787.b9ec5bb0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91706419.css",
-    "static/js/main.e6c4f5a0.js"
+    "static/css/main.15db3153.css",
+    "static/js/main.2d32ca69.js"
   ]
 }
