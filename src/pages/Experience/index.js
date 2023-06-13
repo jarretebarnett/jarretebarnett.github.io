@@ -25,6 +25,7 @@ import sql from "../../assets/img/sql.png";
 import mongologo from "../../assets/img/mongodb.png";
 import uconnbootcamp from "../../assets/img/uconnbootcamp.png";
 import awsbadge from "../../assets/img/awsbadge.png";
+import awspartner from "../../assets/img/awspartnerbadge.png";
 
 function Experience() {
     return (
@@ -107,6 +108,7 @@ function Experience() {
                                 <div id="profs" className="row-cols-auto">
                                     <img src={uconnbootcamp} className="imgSpace" style={{ maxWidth: 120 }} alt=""></img>
                                     <img src={awsbadge} className="imgSpace" style={{ maxWidth: 120 }} alt=""></img>
+                                    <img src={awspartner} className="imgSpaceii" style={{ maxWidth: 126 }} alt=""></img>
                                 </div>
                             </div>
                         </div>
