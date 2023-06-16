@@ -107,7 +107,7 @@ h1.fade-one {
   -o-animation: fadeIn 4.75s !important;
   animation: fadeIn 4.75s !important; */
   font-size: 32px;
-  margin-top: 300px;
+  margin-top: 255px;
 }
 h1.fade-two {
   /* -webkit-animation: fadeIn 5.75s !important;

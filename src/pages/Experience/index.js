@@ -45,7 +45,7 @@ function Experience() {
                         <div>
                             <a id="coName" href="https://turnberrysolutions.com/" rel="noreferrer" target="_blank">Turnberry Solutions <img src={turnberrysolutions} style={{ maxWidth: 20 }} alt=""/></a>
                             <ul>
-                                <li id="posName">Associate Software Engineer, AWS Cloud Practitioner</li>
+                                <li id="posName">Associate Software Engineer ⤬ AWS Cloud Practitioner</li>
                                 <li id="expDateii">May 2022 ⤬ Present</li>
                             </ul>
                             <p className="clientSection">Clients ࿒</p>
