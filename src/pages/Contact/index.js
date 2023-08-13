@@ -2,7 +2,7 @@ import React from 'react';
 import githublogo from "../../assets/img/githublogo.png";
 import linkedin from "../../assets/img/linkedin.png";
 import facebook from "../../assets/img/facebook.png";
-import twitter from "../../assets/img/twitter.png";
+import x from "../../assets/img/x.png";
 import instagram from "../../assets/img/instagram.jpg";
 import youtube from "../../assets/img/youtube.png";
 import twitch from "../../assets/img/twitch.png";
@@ -32,7 +32,7 @@ function Contact() {
                         </div>
                         <br />
                         <div className="row">
-                            <a id="social-glow" className="lean-right" href="https://www.linkedin.com/in/jarretebarnett/" rel="noreferrer" target="_blank">LinkedIn <img src={linkedin} style={{ maxWidth: 20 }} alt=""/></a>
+                            <a id="social-glow" className="lean-right" href="https://www.linkedin.com/in/jarretebarnett/" rel="noreferrer" target="_blank">LinkedIn <img src={linkedin} style={{ maxWidth: 19 }} alt=""/></a>
                         </div>
                         <br />
                         <div className="row">
@@ -40,7 +40,7 @@ function Contact() {
                         </div>
                         <br />
                         <div className="row">
-                            <a id="social-glow" className="lean-right" href="https://twitter.com/jarretedotio" rel="noreferrer" target="_blank">Twitter <img src={twitter} style={{ maxWidth: 19 }} alt=""/></a>
+                            <a id="social-glow" className="lean-right" href="https://x.com/jarretedotio" rel="noreferrer" target="_blank">X <img src={x} style={{ maxWidth: 22 }} alt=""/></a>
                         </div>
                         <br />
                         <div className="row">
