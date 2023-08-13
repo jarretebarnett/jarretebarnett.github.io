@@ -410,6 +410,8 @@ p.proficiencies:hover {
 #posName {
   font-size: 17px;
   margin-bottom: 3px;
+  white-space: normal;
+  display: block !important;
 }
 
 #jobTitle {
@@ -431,6 +433,8 @@ p.proficiencies:hover {
 #coName {
   font-size: 23px;
   margin-bottom: 3px;
+  white-space: normal;
+  display: block !important;
 }
 
 #coName:hover {
